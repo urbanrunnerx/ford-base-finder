@@ -1,17 +1,28 @@
 # Ford Base Finder
 
-[**Open and install Ford Base Finder**](https://ford-base-finder-chris.urbanrunnerx.chatgpt.site/install.html)
+[**Open and install Ford Base Finder**](https://urbanrunnerx.github.io/ford-base-finder/install.html)
 
 A phone-friendly Ford basic-number reference. Search a part name, description, basic number, or full service part number.
 
 ## Install on Android
 
 1. Open the app link above in Chrome.
-2. Sign in with the account that owns the app if prompted.
+2. Wait for the page to prepare the included reference for offline use.
 3. Tap **Install on my phone**. If your browser cannot show the prompt, the page provides the installation steps.
 4. Launch Ford Base Finder from your phone's app icon.
 
 [Google's Android installation instructions](https://support.google.com/chrome/answer/9658361?co=GENIE.Platform%3DAndroid&hl=en)
+
+## Enable GitHub Pages once
+
+The install link above becomes available after GitHub Pages is enabled. The complete static app is already prepared in `docs/`.
+
+1. Open [repository Settings → Pages](https://github.com/urbanrunnerx/ford-base-finder/settings/pages).
+2. Select **Deploy from a branch**.
+3. Choose **main** and **/docs**, then **Save**.
+4. Wait for the Pages deployment to finish.
+
+GitHub Pages publishes the app for visitors without a ChatGPT login. For a private repository, GitHub Pages requires a supported paid GitHub plan. GitHub Free supports Pages from public repositories. Repository visibility remains unchanged by this update. [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 ## Included reference
 
@@ -43,6 +54,10 @@ Keep the observation files, catalog context, original reference, and collection 
 
 ## Updates
 
-This repository contains the application source, reference data, and collection progress. The install link points to the existing privately hosted app. A GitHub push alone does not update that app; deploy the revised app to update the installed version. The application code and references can refresh from the hosted app when online.
+Edit the app in `dist/`. Run `python scripts/build-pages.py`, then commit both the source and generated `docs/` files. Once Pages is enabled for `main` and `/docs`, pushes to that publishing source update the GitHub-hosted app.
+
+The app uses relative paths and a service worker scoped to its own GitHub Pages folder. It can be installed alongside WallStory without replacing its app icon or deleting its offline cache.
+
+Moving from the earlier app address does not transfer browser imports. Export imported records from **Coverage & tools** in the earlier app, then import that CSV in the GitHub-hosted app. Built-in reference entries are included automatically.
 
 No Snap-on passwords, browser cookies, or session tokens are included.
