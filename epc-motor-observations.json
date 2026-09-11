@@ -1,0 +1,436 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Cooler Assy - Engine Charge Air",
+      "6K775",
+      "10C - Intercooler/Air Ducts and Hoses, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Heater Assy",
+      "18K463",
+      "05C - Heater/Air Cond.External Components, 3.0L EcoBlue, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Heater Assy",
+      "6A051",
+      "25A - Engine Heater, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Heater Asy - Auxiliary",
+      "18E254",
+      "17 - Auxiliary Electric Pre-Heater, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Heater Asy - Auxiliary",
+      "18K463",
+      "17 - Auxiliary Electric Pre-Heater, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Fan and Motor Assy",
+      "8C607",
+      "10R - Intercooler/Air Ducts and Hoses, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6, Raptor Series; 22/JUL/2021"
+    ],
+    [
+      "Motor and Pump Assy",
+      "17664",
+      "10A - Windshield Washer, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Motor and Pump Assy",
+      "8K621",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Motor Assy",
+      "14547",
+      "15B - Front Seat Base, With Driver 8 Way Pwr.Seat Adjuster, LHD, Driver Seat; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy",
+      "15790",
+      "10 - Sliding Roof Mechanism and Controls, VISTA FRT PWR TILT/SLD/FIXD RR; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy",
+      "19E616",
+      "05A - Heater/Air Cond.External Components, 5.0L Coyote, 3.3L Duratec, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 2.7L DOHC 4V DI GT V6 GAS/FFV, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy",
+      "23394",
+      "25B - Back Window Glass, With Power Sliding Rear Window; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy",
+      "7G360",
+      "10H - Transfer Drive Components, With Electric Transfer Case, Rear; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nLH",
+      "23394",
+      "15C - Rear Door Glass and Window Controls, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nLH",
+      "23395",
+      "10B - Front Door Glass & Window Controls, With Power Front Windows, Power Front Windows One Touch Down; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nRH",
+      "23394",
+      "10B - Front Door Glass & Window Controls, With Power Front Windows, Power Front Windows One Touch Down; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nRH",
+      "23395",
+      "15C - Rear Door Glass and Window Controls, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nRH/LH",
+      "17D696",
+      "05A - Exterior Rear View Mirror, Manual Dual Mirror-Manual Fold Back, Dual Power Adjust/Heated/Blind Spot, Dual Power Adjustable Mirrs W/Blis; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nTelescopic",
+      "3F840",
+      "05B - Steering Column, Power Tilt Memory Steering Column, LHD; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nTilt Motor",
+      "3F840",
+      "05B - Steering Column, Power Tilt Memory Steering Column, LHD; 12/OCT/2020"
+    ],
+    [
+      "Motor Assy - \nTransfer Case Shift Motor",
+      "7G360",
+      "10AG - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, Rear; 12/OCT/2020"
+    ],
+    [
+      "Motor Asy - Wiper\nRemanufactured, \nWiper Motor To Linkage With 4 Bolt Mounting , Motor I.D, ML34-17504-A*",
+      "17508",
+      "05A - Windshield Wiper, LHD; 12/OCT/2020"
+    ],
+    [
+      "Motor Asy - Wiper\nWiper Motor To Linkage With 3 Bolt Mounting , Motor I.D, FL34-17508-A*",
+      "17508",
+      "05A - Windshield Wiper, LHD; 12/OCT/2020"
+    ],
+    [
+      "Motor Asy - Wiper\nWiper Motor To Linkage With 4 Bolt Mounting , Motor I.D, ML34-17504-A*",
+      "17508",
+      "05A - Windshield Wiper, LHD; 12/OCT/2020"
+    ],
+    [
+      "Oil Cooler Assy",
+      "6A642",
+      "10A - Oil Cooler and Filter, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Oil Cooler Assy",
+      "7869",
+      "03C - Traction Motor And Transmission, Complete, Rear Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Oil Cooler Assy",
+      "7A095",
+      "05AB - Transmission Cooling Systems, 5.2L Predator OHC SC PFI Gas, 10 Speed Auto Transmission (10R80); 18/OCT/2022"
+    ],
+    [
+      "Starter Motor Assy",
+      "11002",
+      "05A - Starter Motor, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Core Asy - Heater",
+      "18476",
+      "10A - Heater/Air Cond.Internal Components; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05A - Heater & Air Conditioning Controls, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19E906",
+      "05A - Heater & Air Conditioning Controls, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Motor - Electric Parking Brake\nRH/LH",
+      "2B712",
+      "05 - Rear Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Cooler - EGR",
+      "9F464",
+      "20A - Exhaust Gas Recirculation, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Regulator - Window - Less Motor\nLess Motor, \nLH",
+      "27009",
+      "15B - Rear Door Glass and Window Controls, With Electric Rear Windows, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Regulator - Window - Less Motor\nLess Motor, \nRH",
+      "27008",
+      "15B - Rear Door Glass and Window Controls, With Electric Rear Windows, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Regulator Assy - \nLH, \nLess Motor",
+      "23209",
+      "10B - Front Door Glass & Window Controls, With Power Front Windows, Power Front Windows One Touch Down; 12/OCT/2020"
+    ],
+    [
+      "Regulator Assy - \nRH, \nLess Motor",
+      "23208",
+      "10B - Front Door Glass & Window Controls, With Power Front Windows, Power Front Windows One Touch Down; 12/OCT/2020"
+    ],
+    [
+      "Arm And Pivot Shaft Asy - \nLess Motor, \nWiper Motor To Linkage With 3 Bolt Mounting , Motor I.D, FL34-17508-A*",
+      "17566",
+      "05A - Windshield Wiper, LHD; 12/OCT/2020"
+    ],
+    [
+      "Arm And Pivot Shaft Asy - \nLess Motor, \nWiper Motor To Linkage With 4 Bolt Mounting , Motor I.D, ML34-17504-A*",
+      "17566",
+      "05A - Windshield Wiper, LHD; 12/OCT/2020"
+    ],
+    [
+      "Arm And Pivot Shaft Asy - \nWiper Motor To Linkage With 4 Bolt Mounting , Motor I.D, ML34-17504-A*",
+      "17508",
+      "05A - Windshield Wiper, LHD; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n10 Cavity, \nMotor , Moon Roof/Sun Roof",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nHeater , Transmission Fluid, \nValve Assembly",
+      "14S411",
+      "45GF - Pigtail Wiring Kits, Miscellaneous, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nMotor , Adjustable Pedal",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nMotor , Electric Parking Brake, \nRH/LH",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nMotor , Engine Cooling Fan",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nMotor , Power Window , LH , Front, \nMotor , Power Window , LH , Rear, \nMotor , Power Window , RH , Front, \nMotor , Power Window , RH , Rear, \nMotor , Power Window Rear Sliding",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nMotor , Windshield Washer Fluid Pump",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Coolant Temperature, \nCharge Air Cooler",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nAir Conditioning And Heater Controls, \nModule",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nFor Seat Cushion, \nRH/LH, \nBlower Motor, \nFRONT",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nPump , Motor Electronics Coolant",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nRH/LH, \nBlower Motor, \nFor Seat Back, \nFRONT",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n30 Cavity, \nModule, \nAir Conditioning And Heater Controls",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nLH, \nMotor , Seat Height , Front",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nLH, \nMotor , Seat Recline",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nMotor , Engine Cooling Fan",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nMotor , Power Seat Track, \nRH/LH, \nFRONT",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nMotor , Seat height , Rear, \nRH/LH",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nRH, \nMotor , Seat Recline",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n5 Cavity, \nMotor , Turbocharger Wastegate",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRH/LH, \nMotor , Running Board",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nMotor, \nFor Tailgate",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGreen, \n4 CAVITY, \nMotor , Steering Column , \nTelescopic",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n4 CAVITY, \nMotor , Adjustable Pedal",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n4 CAVITY, \nTilt Adjustment, \nMotor , Steering Column",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Tube - Oil Cooler",
+      "7R081",
+      "05AB - Transmission Cooling Systems, 5.2L Predator OHC SC PFI Gas, 10 Speed Auto Transmission (10R80); 18/OCT/2022"
+    ],
+    [
+      "Wire Asy- Fan Motor",
+      "8C290",
+      "09G - Wiring - Engine And Transmission, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Dearborn Plant Build; 12/OCT/2020"
+    ],
+    [
+      "Bracket - Charge Air Cooler\nLower",
+      "6K864",
+      "10C - Intercooler/Air Ducts and Hoses, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bracket - Charge Air Cooler\nUpper",
+      "6K864",
+      "10C - Intercooler/Air Ducts and Hoses, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Control Assy - Heater",
+      "19980",
+      "05A - Heater & Air Conditioning Controls, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Duct - Heater Air Inlet",
+      "19A618",
+      "05A - Heater/Air Cond.External Components, 5.0L Coyote, 3.3L Duratec, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 2.7L DOHC 4V DI GT V6 GAS/FFV, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Header - High Voltage Batt Cooler\nRH/LH",
+      "10C773",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Hose - Heater Water",
+      "18472",
+      "15A - Radiator/Coolant Overflow Container, 5.2L Predator OHC SC PFI Gas, Hi Temperature Circuit; 18/OCT/2022"
+    ],
+    [
+      "Hose - Heater Water",
+      "18696",
+      "05A - Heater/Air Cond.External Components, 5.0L Coyote, 3.3L Duratec, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 2.7L DOHC 4V DI GT V6 GAS/FFV, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Hose - Heater Water",
+      "8N029",
+      "15AB - Radiator/Coolant Overflow Container, 3.5L V6, (+)\"CDN/MEX/USA\", Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Hose - Heater Water",
+      "18N344",
+      "15AF - Radiator/Coolant Overflow Container, 3.5L V6, (-) GVMT Service Administration, (-)\"RA\", (-)\"CHL\", Kansas City Plant Build, Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Hose - Heater Water",
+      "18N345",
+      "15AF - Radiator/Coolant Overflow Container, 3.5L V6, (-) GVMT Service Administration, (-)\"RA\", (-)\"CHL\", Kansas City Plant Build, Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Hose - Heater Water",
+      "8B081",
+      "10D - Oil Cooler and Filter, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Hose - Heater Water\nClamps Not Serviced Dealer To Improvise",
+      "18472",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Hose - Heater Water\nClamps Not Serviced Dealer To Improvise",
+      "18N344",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Hose - Heater Water\nClamps Not Serviced Dealer To Improvise",
+      "18N345",
+      "15B - Radiator/Coolant Overflow Container, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Hose - Oil Cooler",
+      "7A031",
+      "15B - Radiator/Coolant Overflow Container, 2.7L DOHC 4V DI GT V6 GAS/FFV; 17/JUL/2017"
+    ],
+    [
+      "Hose - Oil Cooler",
+      "7B028",
+      "05AB - Transmission Cooling Systems, 5.2L Predator OHC SC PFI Gas, 10 Speed Auto Transmission (10R80); 18/OCT/2022"
+    ],
+    [
+      "Module - Seat Heater Control",
+      "14C724",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 12/OCT/2020"
+    ],
+    [
+      "Resolver - \nTraction Motor Resolver",
+      "7J465",
+      "03C - Traction Motor And Transmission, Complete, Rear Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Tube - Heater Water",
+      "18663",
+      "05A - Heater/Air Cond.External Components, 5.0L Coyote, 3.3L Duratec, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 2.7L DOHC 4V DI GT V6 GAS/FFV, Manual Air Conditioning; 12/OCT/2020"
+    ]
+  ]
+}

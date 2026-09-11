@@ -1,0 +1,971 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "ALTERNATOR & STARTER ASSEMBLY",
+      "11A213",
+      "05E - Alternator and Mountings, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Alternator Assy",
+      "10346",
+      "05A - Alternator and Mountings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Alternator Assy",
+      "10346",
+      "05D - Alternator and Mountings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG; 12/OCT/2020"
+    ],
+    [
+      "Alternator Assy",
+      "10346",
+      "05F - Alternator and Mountings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Alternator Assy",
+      "10346",
+      "05G - Alternator and Mountings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n100 Amp, \n300 AMP, \n175 AMP",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n20 AMP, \nBlue, \nFemale, \n58 Volt, \nSquare",
+      "14526",
+      "20E - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n275 Amp, \n175 AMP, \n125 Amp",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n30 AMP, \n#Green",
+      "14526",
+      "20F - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Panel Asy Quick Conn Fuse Junction; 18/DEC/2023"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n30 AMP, \n58 Volt, \nSquare, \nPINK",
+      "14526",
+      "20E - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n40 AMP, \nGreen, \n32 Volt",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \n300 AMP, \n175 AMP",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \nYellow, \n32 Volt",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nWhite, \n25 AMP, \n58 Volt, \nSquare",
+      "14526",
+      "20E - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10A - Battery Cables and Horn, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10B - Battery Cables and Horn, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10C - Battery Cables and Horn, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10D - Battery Cables and Horn, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, LHD; 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10E - Battery Cables and Horn, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10F - Battery Cables and Horn, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10G - Battery Cables and Horn, Electric Motor #1, Electric Motor #2, Electric Motor #4, Electric Motor #5; 14/MAR/2022"
+    ],
+    [
+      "Horn And Bracket Asy",
+      "13832",
+      "10H - Battery Cables and Horn, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Starter Motor Assy",
+      "11002",
+      "05A - Starter Motor, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Starter Motor Assy",
+      "11002",
+      "05B - Starter Motor, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Starter Motor Assy",
+      "11002",
+      "05B - Starter Motor, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Starter Motor Assy",
+      "11002",
+      "05D - Starter Motor, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Starter Motor Assy",
+      "11002",
+      "05N - Starter Motor, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Relay - \n40 AMP, \n4 Blade Terminal, \n4 Pin",
+      "14N089",
+      "15 - Relays; 12/OCT/2020"
+    ],
+    [
+      "Relay - \n40 AMP, \n5 Pin",
+      "14N089",
+      "15 - Relays; 12/OCT/2020"
+    ],
+    [
+      "Relay - \nGrey, \n70 AMP, \n4 Pin, \nMulti-Function Relay, \nMini",
+      "14N089",
+      "15 - Relays; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker",
+      "14526",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n15 AMP, \n32 Volt, \nGray",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n15 AMP, \nBlue, \n3 Blade Terminal, \n32 Volt",
+      "14526",
+      "20C - Fuses, Holders and Circuit Breakers, Body Control Module (BCM), Fuses, Circuit Breakers And Circuit Components; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n20 AMP, \nBlue, \n32 Volt",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n20 AMP, \nYellow, \n32 Volt, \nBlade Type",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n20 AMP, \nYellow, \n32 Volt, \nBlade Type",
+      "14526",
+      "20C - Fuses, Holders and Circuit Breakers, Body Control Module (BCM), Fuses, Circuit Breakers And Circuit Components; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n30 AMP, \n32 Volt, \nPINK",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n30 AMP, \nGreen, \n32 Volt, \nBlade Type",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n30 AMP, \nGreen, \n32 Volt, \nBlade Type",
+      "14526",
+      "20C - Fuses, Holders and Circuit Breakers, Body Control Module (BCM), Fuses, Circuit Breakers And Circuit Components; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n40 AMP, \nGreen, \nLess Tabs, \n58 Volt, \nSquare",
+      "14526",
+      "20E - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n50 AMP",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n50 AMP, \n80 AMP, \n300 AMP",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n50 AMP, \nDiameter: 10.2MM, \n38.1MM",
+      "14526",
+      "05A - High Voltage Battery And Mounting, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n50 AMP, \nDiameter: 10.2MM, \n38.1MM",
+      "14526",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n50 AMP, \nDiameter: 10.2MM, \n38.1MM",
+      "14526",
+      "05F - High Voltage Battery And Mounting, Traction Battery #4, Traction Battery; 17/FEB/2025"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \nDiameter: 10.2MM, \n38.1MM",
+      "14526",
+      "05A - High Voltage Battery And Mounting, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n150 AMP, \nDiameter: 20.9MM, \n42.2MM",
+      "14526",
+      "05A - High Voltage Battery And Mounting, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \nYellow, \nLess Tabs, \n58 Volt, \nSquare",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \nYellow, \nLess Tabs, \n58 Volt, \nSquare",
+      "14526",
+      "20E - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \nØ 14MM, \n41.5mm",
+      "14526",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Fuse/Circuit Breaker - \n60 AMP, \nØ 14MM, \n41.5mm",
+      "14526",
+      "05F - High Voltage Battery And Mounting, Traction Battery #4, Traction Battery; 17/FEB/2025"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nBattery Interrupt",
+      "14526",
+      "20B - Fuses, Holders and Circuit Breakers, Fuse panels and Relay panels, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nBrown, \n7.5 AMP, \n32 Volt, \nBlade Type",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nBrown, \n7.5 AMP, \n32 Volt, \nBlade Type",
+      "14526",
+      "20C - Fuses, Holders and Circuit Breakers, Body Control Module (BCM), Fuses, Circuit Breakers And Circuit Components; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nRed, \n10 AMP, \n32 Volt, \nBlade Type",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nRed, \n10 AMP, \n32 Volt, \nBlade Type",
+      "14526",
+      "20C - Fuses, Holders and Circuit Breakers, Body Control Module (BCM), Fuses, Circuit Breakers And Circuit Components; 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nRed, \n50 AMP, \n32 Volt",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nRed, \n50 AMP, \nLess Tabs, \n58 Volt, \nSquare",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nRed, \n50 AMP, \nLess Tabs, \n58 Volt, \nSquare",
+      "14526",
+      "20E - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nWhite, \n25 AMP, \n32 Volt",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nWhite, \n25 AMP, \n32 Volt, \nBlade Type",
+      "14526",
+      "20A - Fuses, Holders and Circuit Breakers, Fuses, Circuit Breakers And Circuit Components, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Horn Assy - \nRemote Keyless Entry Exterior Sounder",
+      "19G229",
+      "10G - Battery Cables and Horn, Electric Motor #1, Electric Motor #2, Electric Motor #4, Electric Motor #5; 14/MAR/2022"
+    ],
+    [
+      "Box Assy - Fuse",
+      "14A068",
+      "20B - Fuses, Holders and Circuit Breakers, Fuse panels and Relay panels, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Box Assy - Fuse\nAuxiliary",
+      "14A068",
+      "20B - Fuses, Holders and Circuit Breakers, Fuse panels and Relay panels, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nAlternator",
+      "14S411",
+      "45GH - Pigtail Wiring Kits, Miscellaneous, Page D; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nHorn",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Cover - \nBottom Cover Relay",
+      "14A003",
+      "20D - Fuses, Holders and Circuit Breakers, cover, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Cover - \nTop Cover Relay",
+      "14A003",
+      "20B - Fuses, Holders and Circuit Breakers, Fuse panels and Relay panels, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Cover - \nTop Cover Relay",
+      "14A003",
+      "20D - Fuses, Holders and Circuit Breakers, cover, High Current Fuse Box (HCFB); 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05A - Alternator and Mountings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05D - Alternator and Mountings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05E - Alternator and Mountings, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05F - Alternator and Mountings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Body Weight - Airbag",
+      "600F67",
+      "15H - Front Seat Base, Power 8-Way Pass Seat Adj Level 2, LHD, Power 10-Way Pass Seat Adjust #2, Passenger Seat; 30/NOV/2020"
+    ],
+    [
+      "Contact Assy - Airbag",
+      "14A664",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Contact Assy - Airbag",
+      "14A664",
+      "05F - Steering Wheel, Kansas City Plant Build, With Speed Control, Adaptive Speed Control W/CADS III; 08/JAN/2024"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nBlack / Yellow, \nLoad Limiting Retractor, \nPretensioner , Safety Belt Retractor, \nFront And Rear, \nRH/LH",
+      "14S411",
+      "45GF - Pigtail Wiring Kits, Miscellaneous, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRH/LH, \nSeat Belt Anchor, \nFRONT, \nPretensioner",
+      "14S411",
+      "45GF - Pigtail Wiring Kits, Miscellaneous, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n30 Cavity, \nModule , Restraints Control",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nOrange / Blue / Yellow, \n2 CAVITY, \nPretensioner , Safety Belt Retractor, \nRH/LH",
+      "14S411",
+      "45GH - Pigtail Wiring Kits, Miscellaneous, Page D; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead",
+      "519A70",
+      "20J - Console - Overhead, Less Sun Roof, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead",
+      "519A70",
+      "20K - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20AB - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20AC - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20AD - Console - Overhead; 18/DEC/2023-09/DEC/2024"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20AF - Console - Overhead; 18/DEC/2023-09/DEC/2024"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20J - Console - Overhead, Less Sun Roof, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20K - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20L - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, Dearborn Plant Build, With Perimeter Anti-Theft, With Anti-Theft Alarm; 18/DEC/2023-12/NOV/2024"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20M - Console - Overhead, Less Anti-Theft Alarm, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, With Anti-Theft Alarm; 18/DEC/2023-12/NOV/2024"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20S - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, Dearborn Plant Build, With Perimeter Anti-Theft; 12/NOV/2024-28/FEB/2026"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20U - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, Kansas City Plant Build, With Perimeter Anti-Theft; 09/DEC/2024-04/MAR/2026"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20W - Console - Overhead, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 12/NOV/2024-28/FEB/2026"
+    ],
+    [
+      "Console Assy - Overhead\nBlack Onyx",
+      "519A70",
+      "20Z - Console - Overhead, Kansas City Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 09/DEC/2024-04/MAR/2026"
+    ],
+    [
+      "Console Assy - Overhead\nJava Interior",
+      "519A70",
+      "20AC - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Console Assy - Overhead\nJava Interior",
+      "519A70",
+      "20K - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nJava Interior",
+      "519A70",
+      "20W - Console - Overhead, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 12/NOV/2024-28/FEB/2026"
+    ],
+    [
+      "Console Assy - Overhead\nJava Interior",
+      "519A70",
+      "20Z - Console - Overhead, Kansas City Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 09/DEC/2024-04/MAR/2026"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20AB - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20AC - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20AD - Console - Overhead; 18/DEC/2023-09/DEC/2024"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20AF - Console - Overhead; 18/DEC/2023-09/DEC/2024"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20J - Console - Overhead, Less Sun Roof, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20K - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20L - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, Dearborn Plant Build, With Perimeter Anti-Theft, With Anti-Theft Alarm; 18/DEC/2023-12/NOV/2024"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20M - Console - Overhead, Less Anti-Theft Alarm, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, With Anti-Theft Alarm; 18/DEC/2023-12/NOV/2024"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20S - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, Dearborn Plant Build, With Perimeter Anti-Theft; 12/NOV/2024-28/FEB/2026"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20U - Console - Overhead, Less Sun Roof, Less Anti-Theft Alarm, Kansas City Plant Build, With Perimeter Anti-Theft; 09/DEC/2024-04/MAR/2026"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20W - Console - Overhead, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 12/NOV/2024-28/FEB/2026"
+    ],
+    [
+      "Console Assy - Overhead\nLight Slate",
+      "519A70",
+      "20Z - Console - Overhead, Kansas City Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 09/DEC/2024-04/MAR/2026"
+    ],
+    [
+      "Console Assy - Overhead\nSmoked Truffle",
+      "519A70",
+      "20AC - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Console Assy - Overhead\nSmoked Truffle",
+      "519A70",
+      "20AF - Console - Overhead; 18/DEC/2023-09/DEC/2024"
+    ],
+    [
+      "Console Assy - Overhead\nSmoked Truffle",
+      "519A70",
+      "20K - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Console Assy - Overhead\nSmoked Truffle",
+      "519A70",
+      "20M - Console - Overhead, Less Anti-Theft Alarm, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, With Anti-Theft Alarm; 18/DEC/2023-12/NOV/2024"
+    ],
+    [
+      "Console Assy - Overhead\nSmoked Truffle",
+      "519A70",
+      "20W - Console - Overhead, Dearborn Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 12/NOV/2024-28/FEB/2026"
+    ],
+    [
+      "Console Assy - Overhead\nSmoked Truffle",
+      "519A70",
+      "20Z - Console - Overhead, Kansas City Plant Build, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft; 09/DEC/2024-04/MAR/2026"
+    ],
+    [
+      "Carpet - Floor\nBlack, \nCarpet",
+      "13000",
+      "05A - Floor Trim, Regular Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Carpet - Floor\nBlack, \nCarpet",
+      "13000",
+      "05B - Floor Trim, Super Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Carpet - Floor\nBlack, \nCarpet",
+      "13000",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Carpet - Loading Compartment\nBlack, \nCargo Mat",
+      "13042",
+      "35B - Load Compartment Trim, BEV Version, Frunk; 31/JUL/2023"
+    ],
+    [
+      "Insulator - Dash Panel",
+      "01588",
+      "05 - Insulators - Front; 12/OCT/2020"
+    ],
+    [
+      "Insulator - Dash Panel",
+      "01670",
+      "05 - Insulators - Front; 12/OCT/2020"
+    ],
+    [
+      "Insulator - Dash Panel\nLH",
+      "01670",
+      "05 - Insulators - Front; 12/OCT/2020"
+    ],
+    [
+      "Insulator - Dash Panel\nRH",
+      "01670",
+      "05 - Insulators - Front; 12/OCT/2020"
+    ],
+    [
+      "Cylinder Assy - Lock\nCenter Console Lock Cylinder, \nLock Service Pack , Glove box, \nRear Seat Stowage Box",
+      "06082",
+      "05 - Vehicle Lock Sets and Repair Kits; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nAuxiliary, \nFront Overhead Console, \nSwitch Assy",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n16 Cavity, \nOverhead Console",
+      "14S411",
+      "45GH - Pigtail Wiring Kits, Miscellaneous, Page D; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nLight, \nFloor Console, \nBin",
+      "14S411",
+      "45BC - Pigtail Wiring Kits, Lamps, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nRear Of Floor Console, \nLamp , Ambient Lighting",
+      "14S411",
+      "45BC - Pigtail Wiring Kits, Lamps, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nOutlet , 110V, \nCenter Console",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Member - Dash Panel Stiffener",
+      "10414",
+      "10A - Floor Pan - Front, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Member - Dash Panel Stiffener",
+      "10414",
+      "10B - Floor Pan - Front, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Member - Dash Panel Stiffener",
+      "10414",
+      "10C - Floor Pan - Front, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Member - Dash Panel Stiffener",
+      "10415",
+      "10A - Floor Pan - Front, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Member - Dash Panel Stiffener",
+      "10415",
+      "10B - Floor Pan - Front, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Member - Dash Panel Stiffener",
+      "10415",
+      "10C - Floor Pan - Front, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBaja Tan",
+      "045A36",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBaja Tan",
+      "045A36",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack Onyx",
+      "045A36",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack Onyx",
+      "045A36",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nEnhanced Black Alley",
+      "045A76",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nEnhanced Black Alley",
+      "045A76",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nJava Interior",
+      "045A36",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nLight Slate",
+      "045A36",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nMedium Dark Slate",
+      "045A36",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nMedium Dark Slate",
+      "045A36",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nSmoked Truffle",
+      "045A36",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel Assy - Dash\nService Only",
+      "01610",
+      "10A - Dash Panel and Front Fenders, F-150, BEV Version; 12/OCT/2020"
+    ],
+    [
+      "Panel Assy - Dash\nService Only",
+      "01610",
+      "10B - Dash Panel and Front Fenders, Performance Version; 22/JUL/2021"
+    ],
+    [
+      "Kit - Floor Contour Mat\nBlack, \nCarpet Mat, \nSet Of 4 Pieces",
+      "13086",
+      "05B - Floor Trim, Super Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Kit - Floor Contour Mat\nBlack, \nCarpet Mat, \nSet Of 4 Pieces",
+      "13086",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Kit - Floor Contour Mat\nBlack, \nCarpet, \nWith Logo, \nSet Of 3 Pieces",
+      "13086",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Kit - Floor Contour Mat\nBlack, \nWith Logo, \nCarpet Mat, \nSet Of 3 Pieces",
+      "13086",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Kit - Floor Contour Mat\nBlack, \nWith Logo, \nCarpet Mat, \nSet Of 4 Pieces",
+      "13086",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Kit - Floor Contour Mat\nWith Logo, \nCarpet Mat, \nSet Of 3 Pieces, \nEspresso",
+      "13086",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Kit - Floor Contour Mat\nWith Logo, \nCarpet Mat, \nSet Of 3 Pieces, \nPlatinum Blue",
+      "13086",
+      "05C - Floor Trim, Crew Cab, Production Installed; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console",
+      "045D72",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBaja Tan",
+      "045D72",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBaja Tan",
+      "045D72",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack",
+      "04567",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack",
+      "13530",
+      "10B - Console - Floor, Less Mobile Office Pack, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack",
+      "13530",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack Onyx",
+      "04567",
+      "10B - Console - Floor, Less Mobile Office Pack, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack Onyx",
+      "04567",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack Onyx",
+      "045D72",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBlack Onyx",
+      "045D72",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nBright Chrome",
+      "06202",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nEnhanced Black Alley",
+      "06202",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nEnhanced Black Alley, \nLH",
+      "04567",
+      "05B - Instrument Panel, Less Floor Mounted Console, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nEnhanced Black Alley, \nRH",
+      "04567",
+      "05B - Instrument Panel, Less Floor Mounted Console, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nJava Interior",
+      "04567",
+      "10B - Console - Floor, Less Mobile Office Pack, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nJava Interior",
+      "04567",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nJava Interior",
+      "045D72",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nKrypto Gray, \nLH",
+      "04567",
+      "05B - Instrument Panel, Less Floor Mounted Console, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nKrypto Gray, \nRH",
+      "04567",
+      "05B - Instrument Panel, Less Floor Mounted Console, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nLight Slate",
+      "045D72",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nMedium Dark Slate",
+      "045D72",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nMedium Dark Slate",
+      "045D72",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nNavy Pier",
+      "04567",
+      "10B - Console - Floor, Less Mobile Office Pack, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nNavy Pier",
+      "04567",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nSatin Aluminum Finish",
+      "06202",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nSmoked Truffle",
+      "04567",
+      "10C - Console - Floor, MOBILE OFFICE PACK, Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nSmoked Truffle",
+      "045D72",
+      "10A - Console - Floor, Column Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel - Console\nSmoked Truffle",
+      "045D72",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05A - Instrument Panel, MFD TFT Touch Screen, Less Head Up Display, Multi Function Display - 12\", Upper; 12/OCT/2020"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05B - Instrument Panel, Less Floor Mounted Console, Lower; 12/OCT/2020"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05D - Instrument Panel, MULTI FUNCTION DISPLAY - 15, Upper; 14/MAR/2022"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05E - Instrument Panel, MULTI FUNCTION DISPLAY - 15, Lower; 14/MAR/2022"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05F - Instrument Panel, MFD TFT Touch Screen, LHD, Less Head Up Display, Multi Function Display - 12\", Lower; 15/NOV/2021"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05H - Instrument Panel, With Advanced Heads Up Display, Multi Function Display - 12\", Upper; 18/DEC/2023"
+    ],
+    [
+      "Panel Assy - Dash",
+      "04320",
+      "05J - Instrument Panel, With Advanced Heads Up Display, Multi Function Display - 12\", Lower; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy - \nSwitch , Power Window , Rear Sliding Glass, \nOverhead Console",
+      "14529",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Power Window , Rear Sliding Glass, \nOverhead Console",
+      "14529",
+      "10D - Switches, BEV Version, Body; 14/MAR/2022"
+    ]
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Inverter",
+      "14G649",
+      "50A - High Voltage Battery Charging, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Battery Tray",
+      "10732",
+      "05B - Battery and Mountings, 12 VOLT, Rear Mount; 12/OCT/2020"
+    ],
+    [
+      "Converter Assy",
+      "7902",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Converter Asy - Voltage",
+      "19G317",
+      "05D - Vehicle Modules and Sensors, Body, Page B; 12/OCT/2020"
+    ],
+    [
+      "Converter Asy - Voltage\n230V",
+      "19G317",
+      "05D - Vehicle Modules and Sensors, Body, Page B; 12/OCT/2020"
+    ],
+    [
+      "Converter Asy - Voltage\nDC/DC Converter",
+      "14B227",
+      "50B - High Voltage Battery Charging, Less Engine, Electric Motor #2, Electric Motor #4, Electric Motor #5, Single Phase Charger; 14/MAR/2022"
+    ],
+    [
+      "Battery",
+      "10655",
+      "05B - Battery and Mountings, 12 VOLT, Rear Mount; 12/OCT/2020"
+    ],
+    [
+      "Battery - \n760 Amp, \n70 AH",
+      "10655",
+      "05A - Battery and Mountings, Performance Version, F-150, Engine Compartment, 12 VOLT; 12/OCT/2020"
+    ],
+    [
+      "Battery - \n80 AH, \n800 Amp",
+      "10655",
+      "05A - Battery and Mountings, Performance Version, F-150, Engine Compartment, 12 VOLT; 12/OCT/2020"
+    ],
+    [
+      "Battery - \nAGM Battery, \n35 AH, \n60 RC",
+      "10655",
+      "05C - Battery and Mountings, BEV Version, Engine Compartment, 12 VOLT; 14/MAR/2022"
+    ],
+    [
+      "Battery - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com",
+      "10B690",
+      "05A - High Voltage Battery And Mounting, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Battery - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com",
+      "10B759",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Charger - Battery\nSOBDM",
+      "10B689",
+      "50B - High Voltage Battery Charging, Less Engine, Electric Motor #2, Electric Motor #4, Electric Motor #5, Single Phase Charger; 14/MAR/2022"
+    ],
+    [
+      "Battery Cover",
+      "10C699",
+      "05F - High Voltage Battery And Mounting, Traction Battery #4, Traction Battery; 17/FEB/2025"
+    ],
+    [
+      "Battery Cover - \nService Only",
+      "10C699",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Converter Asy - Voltage\nDC/DC Converter",
+      "14B227",
+      "50A - High Voltage Battery Charging, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Trans Inverter Control Module - \nPrimary, \nFRONT",
+      "7B012",
+      "50A - High Voltage Battery Charging, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Trans Inverter Control Module - \nRear, \nPrimary, \nSOBDMC",
+      "7B012",
+      "03C - Traction Motor And Transmission, Complete, Rear Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Trans Inverter Control Module - \nSecondary, \nFRONT, \nSOBDMB",
+      "7B012",
+      "03E - Traction Motor And Transmission, Complete, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Connector - Battery Clamp\n0.5MM, \nTin Plated",
+      "14421",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.5MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.64MM, \nSilver Plated Terminals",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n2.5MM, \nTin Plated",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.64MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.75MM, \nSilver Plated Terminals",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.75MM, \nTin Plated",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n1.5MM, \nSilver Plated Terminals",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n1.50MM, \nSilver Plated Terminals",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n1.5MM, \nTin Plated",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n1.5MM, \nTin Plated",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n2.5MM, \nTin Plated",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.50MM, \nTin Plated",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n6.3MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n0.75MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n1.50MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n2.50MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n2.80MM, \nTin Plated",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n6MM, \nTin Plated",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n8MM, \nSilver Plated Terminals",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n9.5MM, \nTin Plated",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\n9.5MM, \nTin Plated",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n1.0MM",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n1.2MM",
+      "14474",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n1.8 MM",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n4.0MM",
+      "14421",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n4.0MM",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n1.00MM",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n3.00MM",
+      "14421",
+      "35B - Wiring Terminals, Page B; 12/OCT/2020"
+    ],
+    [
+      "Connector - Battery Clamp\nTin Plated, \n3.00MM",
+      "14474",
+      "35A - Wiring Terminals, Page A; 12/OCT/2020"
+    ],
+    [
+      "Support - Battery Tray",
+      "10753",
+      "05A - Battery and Mountings, Performance Version, F-150, Engine Compartment, 12 VOLT; 12/OCT/2020"
+    ],
+    [
+      "Support - Battery Tray",
+      "10A666",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Cable Asy - Battery - Negative",
+      "14301",
+      "10E - Battery Cables and Horn, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Cable Asy - Battery Positive",
+      "14300",
+      "05B - Battery and Mountings, 12 VOLT, Rear Mount; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nVoltage Inverter , DC-To-AC",
+      "14S411",
+      "45GH - Pigtail Wiring Kits, Miscellaneous, Page D; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nVoltage Inverter , DC-To-AC",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nBattery Monitoring Sensor",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nHigh Voltage Battery, \nChiller",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nHigh Voltage Battery, \nSensor , Coolant Temperature",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nHigh Voltage Battery, \nPump , Coolant",
+      "14S411",
+      "45DD - Pigtail Wiring Kits, Pumps And Motors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Battery Current",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nBattery, \nAuxiliary, \nIsolator",
+      "14S411",
+      "45GG - Pigtail Wiring Kits, Miscellaneous, Page C; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nModule , DC/DC Converter",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nHigh Voltage Battery Junction Box",
+      "14S411",
+      "45GH - Pigtail Wiring Kits, Miscellaneous, Page D; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Wireless Charger",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Tray Asy - Battery",
+      "10732",
+      "05A - Battery and Mountings, Performance Version, F-150, Engine Compartment, 12 VOLT; 12/OCT/2020"
+    ],
+    [
+      "Kit - Battery Charger",
+      "10B706",
+      "50B - High Voltage Battery Charging, Less Engine, Electric Motor #2, Electric Motor #4, Electric Motor #5, Single Phase Charger; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nRemanufactured, \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com",
+      "10D672",
+      "05E - High Voltage Battery And Mounting, Traction Battery #4, Array Kit; 17/FEB/2025"
+    ],
+    [
+      "Array Service Kit - \nRemanufactured, \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 1, 2, 3, 4, 5 Must Also Order Thermal Blanket NL3Z-10D782-L, \nFor Array Position 6, 7, 8 Must Also Order Thermal Blanket NL3Z-10D782-M",
+      "10D672",
+      "05D - High Voltage Battery And Mounting, Traction Battery #2, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nRemanufactured, \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 1, 2, 3, 4, 5 Must Also Order Thermal Blanket NL3Z-10D782-L, \nFor Array Position 6, 7, 8 Must Also Order Thermal Blanket NL3Z-10D782-M, \nArray Position 1 Through 8",
+      "10D672",
+      "05C - High Voltage Battery And Mounting, Traction Battery #1, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nRemanufactured, \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 9 Must Also Order Thermal Blanket NL3Z-10D782-K",
+      "10D672",
+      "05D - High Voltage Battery And Mounting, Traction Battery #2, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nRemanufactured, \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 9 Must Also Order Thermal Blanket NL3Z-10D782-K, \nArray Position 9",
+      "10D672",
+      "05C - High Voltage Battery And Mounting, Traction Battery #1, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com",
+      "10D672",
+      "05E - High Voltage Battery And Mounting, Traction Battery #4, Array Kit; 17/FEB/2025"
+    ],
+    [
+      "Array Service Kit - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 1, 2, 3, 4, 5 Must Also Order Thermal Blanket NL3Z-10D782-L, \nFor Array Position 6, 7, 8 Must Also Order Thermal Blanket NL3Z-10D782-M",
+      "10D672",
+      "05D - High Voltage Battery And Mounting, Traction Battery #2, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 1, 2, 3, 4, 5 Must Also Order Thermal Blanket NL3Z-10D782-L, \nFor Array Position 6, 7, 8 Must Also Order Thermal Blanket NL3Z-10D782-M, \nArray Position 1 Through 8",
+      "10D672",
+      "05C - High Voltage Battery And Mounting, Traction Battery #1, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 9 Must Also Order Thermal Blanket NL3Z-10D782-K",
+      "10D672",
+      "05D - High Voltage Battery And Mounting, Traction Battery #2, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "Array Service Kit - \nTo Order HV Battery US And Canadian Dealers Must Use: www.hvbatt.ford.com, \nFor Array Position 9 Must Also Order Thermal Blanket NL3Z-10D782-K, \nArray Position 9",
+      "10D672",
+      "05C - High Voltage Battery And Mounting, Traction Battery #1, Array Kit; 14/MAR/2022"
+    ],
+    [
+      "BEC - High Voltage Battery Jct Box\nConn Bat H/V Bus",
+      "10C666",
+      "05A - High Voltage Battery And Mounting, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "BECM - Battery Energy Cntrl Module",
+      "10B687",
+      "05A - High Voltage Battery And Mounting, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "BECM - Battery Energy Cntrl Module\nBECM",
+      "10B687",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Bracket - Battery Hold Down",
+      "10718",
+      "05C - Battery and Mountings, BEV Version, Engine Compartment, 12 VOLT; 14/MAR/2022"
+    ],
+    [
+      "Cable - Battery - Electric Vehicle",
+      "14D641",
+      "20A - High Power Cabling, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Cable Asy - Battery Positive",
+      "14300",
+      "10B - Battery Cables and Horn, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Cover - \nPlug; Converter Inspection Hole In Block",
+      "6C070",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Decal - Warning - Battery",
+      "00014",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Fuse/Circuit Breaker - \nBattery Interrupt",
+      "14526",
+      "20B - Fuses, Holders and Circuit Breakers, Fuse panels and Relay panels, Battery Junction Box (BJB); 12/OCT/2020"
+    ],
+    [
+      "Module - \nOff-Board Charger Controller",
+      "10E994",
+      "30C - Fuel Tank Filler Door and Controls, BEV Version; 31/OCT/2024"
+    ],
+    [
+      "Shield - Battery Protection\nFRONT",
+      "10D732",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Shield - Battery Protection\nMiddle",
+      "10D732",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Shield - Battery Protection\nRear",
+      "10D732",
+      "05B - High Voltage Battery And Mounting, Traction Battery #1, Traction Battery #2, Traction Battery; 14/MAR/2022"
+    ],
+    [
+      "Kit - Battery Charger",
+      "10A765",
+      "05XA - TOOLS, Accessory, Battery Jump Start Kits; 12/OCT/2020"
+    ]
+  ]
+}

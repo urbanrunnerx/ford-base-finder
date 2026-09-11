@@ -1,0 +1,346 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Sensor Asy - Air Bag Suspension",
+      "3C097",
+      "10C - Air Suspension Controls/Electrics, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension\nLH",
+      "3C097",
+      "10A - Air Suspension Controls/Electrics, F-150; 22/JUL/2021"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension\nRH",
+      "3C097",
+      "10A - Air Suspension Controls/Electrics, F-150; 22/JUL/2021"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock",
+      "2C204",
+      "05 - Anti-Lock Braking System; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nServiced In 15K857",
+      "2C190",
+      "05 - Anti-Lock Braking System; 12/OCT/2020"
+    ],
+    [
+      "Motor - Electric Parking Brake\nRH/LH",
+      "2B712",
+      "05 - Rear Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension",
+      "3078",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension",
+      "3079",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension",
+      "3085",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension\nLH",
+      "3079",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension\nLH",
+      "3085",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension\nRH",
+      "3078",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Front Suspension\nRH",
+      "3084",
+      "05 - Front Susp.Arms/Stabilizer/X-Member; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Rear Suspension",
+      "5500",
+      "05A - Rear Knuckle and Suspension Arms, Raptor Series; 22/JUL/2021"
+    ],
+    [
+      "Arm Assy - Rear Suspension",
+      "5A649",
+      "05A - Rear Knuckle and Suspension Arms, Raptor Series; 22/JUL/2021"
+    ],
+    [
+      "Booster Assy - Brake",
+      "2005",
+      "05 - Brake Booster; 12/OCT/2020"
+    ],
+    [
+      "Column Assy - Steering",
+      "3C529",
+      "05A - Steering Column, Steering Col-Man Tilt/Tele-Flr Shf; 12/OCT/2020"
+    ],
+    [
+      "Column Assy - Steering",
+      "3E751",
+      "05A - Steering Column, Steering Col-Man Tilt/Tele-Flr Shf; 12/OCT/2020"
+    ],
+    [
+      "Coupling and UJ - Steering Shaft",
+      "3B676",
+      "05A - Steering Column, Steering Col-Man Tilt/Tele-Flr Shf; 12/OCT/2020"
+    ],
+    [
+      "Hose Assy - Brake",
+      "2282",
+      "17A - REAR BRAKE LINES, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Hose Assy - Brake\nLH",
+      "2078",
+      "15A - FRONT BRAKE LINES; 12/OCT/2020"
+    ],
+    [
+      "Hose Assy - Brake\nLH",
+      "2282",
+      "17A - REAR BRAKE LINES, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Hose Assy - Brake\nRH",
+      "2078",
+      "15A - FRONT BRAKE LINES; 12/OCT/2020"
+    ],
+    [
+      "Hose Assy - Brake\nRH",
+      "2282",
+      "17A - REAR BRAKE LINES, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Kit - Brake Tubes",
+      "2C296",
+      "15A - FRONT BRAKE LINES; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nModule , Trailer Brake Control",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nModule , Steering Column Tilt/Tele And Pedal Adjust",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nMotor , Electric Parking Brake, \nRH/LH",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Brake Fluid Level",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nTrailer Brake Control Switch Release",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n46 Cavity, \nModule Brake",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nLH, \nSwitch Assy, \nSteering Wheel",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRH, \nSwitch Assy, \nSteering Wheel",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Steering Column Tilt/Tele And Pedal Adjust",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nSwitch , Parking Brake",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n5 Cavity, \nModule , Variable Assist Power Steering",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGreen, \n4 CAVITY, \nMotor , Steering Column , \nTelescopic",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n4 CAVITY, \nTilt Adjustment, \nMotor , Steering Column",
+      "14S411",
+      "45DC - Pigtail Wiring Kits, Pumps And Motors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nWhite, \n5 Cavity, \nModule , Power Steering",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Shroud Assy - Steering Column\nBlack Onyx",
+      "3530",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy - \nSwitch , Parking Brake",
+      "2B623",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Tube Assy - Brake",
+      "2265",
+      "17B - REAR BRAKE LINES, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Tube Assy - Brake\nLH",
+      "2268",
+      "17A - REAR BRAKE LINES, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Tube Assy - Brake\nLH",
+      "2C295",
+      "15A - FRONT BRAKE LINES; 12/OCT/2020"
+    ],
+    [
+      "Tube Assy - Brake\nRH",
+      "2267",
+      "17A - REAR BRAKE LINES, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Tube Assy - Brake\nRH",
+      "2C294",
+      "15A - FRONT BRAKE LINES; 12/OCT/2020"
+    ],
+    [
+      "Wheel Assy - Steering",
+      "3600",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Wheel Assy - Steering\nBlack",
+      "3600",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Wheel Assy - Steering\nBlack Onyx",
+      "3600",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Wheel Assy - Steering\nBlack Onyx/Black",
+      "3600",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Wheel Assy - Steering\nDark Smoked Truffle",
+      "3600",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Wheel Assy - Steering\nMESA",
+      "3600",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Wire Assy - Jumper\nLH, \n12A581 To Suspension Leveling Sensor",
+      "14A412",
+      "09A - Wiring - Engine And Transmission, 5.0L Coyote, Dearborn Plant Build; 12/OCT/2020"
+    ],
+    [
+      "Wire Assy - Jumper\nRH, \n12A581 To Suspension Leveling Sensor",
+      "14A412",
+      "09A - Wiring - Engine And Transmission, 5.0L Coyote, Dearborn Plant Build; 12/OCT/2020"
+    ],
+    [
+      "Arm Assy - Rear Suspension\nLH",
+      "5500",
+      "05B - Rear Knuckle and Suspension Arms, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Arm Assy - Rear Suspension\nRH",
+      "5500",
+      "05B - Rear Knuckle and Suspension Arms, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Cap - Rear Suspension",
+      "5796",
+      "10B - Rear Springs and Shock Absorbers, Heavy Duty Rear Shock Absorbers, Performance Rear Shock Absorbers, Premium Off Road Rr Shock Absorbers, Off Road Rear Shocks; 22/JUL/2021"
+    ],
+    [
+      "Decal - Brake Fluid Reservoir",
+      "00014",
+      "10B - Decals, Warnings And Emissions; 12/OCT/2020"
+    ],
+    [
+      "Disc - Brake",
+      "1125",
+      "05 - Front Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Disc - Brake",
+      "2C026",
+      "05 - Rear Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Gear Assy - Steering",
+      "3504",
+      "05A - Steering Gear, LHD; 12/OCT/2020"
+    ],
+    [
+      "Kit - Brake Lining",
+      "2200",
+      "05 - Rear Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Kit - Caliper Brake Pad",
+      "2001",
+      "05 - Front Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Kit - Caliper Brake Pad\nFord Retail Spec, \nNot For Warranty Repairs",
+      "2V001",
+      "05 - Front Brake Discs and Calipers; 12/OCT/2020"
+    ],
+    [
+      "Kit-Brake Master Cylinder&Reservoir",
+      "2L210",
+      "05 - Master Cylinder - Brake System; 12/OCT/2020"
+    ],
+    [
+      "Module - Trailer Brake",
+      "19H332",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Switch - Accelerator / Brake Adjust\nBlack",
+      "9G604",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Module - Trailer Brake",
+      "19H332",
+      "05XA - Tow Bar, LHD, Accessory; 12/OCT/2020"
+    ]
+  ]
+}

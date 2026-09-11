@@ -1,0 +1,3776 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Bearing",
+      "1225",
+      "05A - Rear Axle, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "1225",
+      "05B - Rear Axle, Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 9.75\" Axle, F-150; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "1225",
+      "05E - Rear Axle, Electronic Locking Differential, With 9.75\" Axle, Performance Version; 22/JUL/2021"
+    ],
+    [
+      "Bearing",
+      "4221",
+      "05A - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 9.75\" Axle, 3.31 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "4221",
+      "05E - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 3.31 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "4221",
+      "05F - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 9.75\" Axle, 3.55 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "4221",
+      "05G - Components - Rear Axle Diff & Carr., With 9.75\" Axle, 3.55 Ratio, 3.73 Ratio, Electronic Lckng Diffrntl - 3/4 Flt; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "4221",
+      "05H - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 4.10 Ratio; 22/JUL/2021"
+    ],
+    [
+      "Bearing",
+      "4221",
+      "10 - Components - Front Axle Diff & Carr, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio, 4.10 Ratio, LHD 4WD (Part Time Drive), RHD 4WD (PTD); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "10AG - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, Rear; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "10B - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, Rear; 22/JUL/2021"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "10H - Transfer Drive Components, With Electric Transfer Case, Rear; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7D221",
+      "10AG - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, Rear; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7D221",
+      "10B - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, Rear; 22/JUL/2021"
+    ],
+    [
+      "Bearing",
+      "7H032",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7H032",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7H032",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Bearing - \nCup And Bearing",
+      "4220",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Bearing - \nCup And Bearing",
+      "4220",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Bearing - \nCup And Bearing",
+      "4220",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Bearing - \nThrust",
+      "7D221",
+      "10A - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, FRONT; 22/JUL/2021"
+    ],
+    [
+      "Bearing - \nThrust",
+      "7D221",
+      "10AF - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, FRONT; 12/OCT/2020"
+    ],
+    [
+      "Bearing - \nThrust",
+      "7D221",
+      "10AG - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, Rear; 12/OCT/2020"
+    ],
+    [
+      "Bearing - \nThrust",
+      "7D221",
+      "10B - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, Rear; 22/JUL/2021"
+    ],
+    [
+      "Bearing - \nThrust",
+      "7D221",
+      "10G - Transfer Drive Components, With Electric Transfer Case, FRONT; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7D063",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball",
+      "7A415",
+      "47J - Output Shafts, LHD RWD, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball",
+      "7A415",
+      "47K - Output Shafts, LHD RWD, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball",
+      "7A415",
+      "47L - Output Shafts, LHD 4WD (Part Time Drive), 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball",
+      "7A415",
+      "47M - Output Shafts, LHD 4WD (Part Time Drive), Mod Hybrid Trnaxle - A10R80-MHT; 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball",
+      "7A415",
+      "47W - Output Shafts, LHD 4WD (Part Time Drive), Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball\nBearing KOYO DB84648",
+      "7A415",
+      "47M - Output Shafts, LHD 4WD (Part Time Drive), Mod Hybrid Trnaxle - A10R80-MHT; 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Ball\nBearing KOYO DB84648",
+      "7A415",
+      "47W - Output Shafts, LHD 4WD (Part Time Drive), Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Driving Pinion",
+      "7G355",
+      "47J - Output Shafts, LHD RWD, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing Assy - Needle\nPilot Bearing",
+      "7120",
+      "10A - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, FRONT; 22/JUL/2021"
+    ],
+    [
+      "Bearing Asy - Roller",
+      "7R205",
+      "47K - Output Shafts, LHD RWD, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Clutch And Pulley Assy-Supercharger",
+      "6J022",
+      "27A - Supercharger, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Clutch Assy",
+      "7C108",
+      "10AG - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, Rear; 12/OCT/2020"
+    ],
+    [
+      "Clutch Assy",
+      "7C108",
+      "10B - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, Rear; 22/JUL/2021"
+    ],
+    [
+      "Clutch Assy - Fan",
+      "8A616",
+      "15B - Radiator/Coolant Overflow Container, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "3222",
+      "10 - Components - Front Axle Diff & Carr, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio, 4.10 Ratio, LHD 4WD (Part Time Drive), RHD 4WD (PTD); 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05A - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 9.75\" Axle, 3.31 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05E - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 3.31 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05F - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 9.75\" Axle, 3.55 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05G - Components - Rear Axle Diff & Carr., With 9.75\" Axle, 3.55 Ratio, 3.73 Ratio, Electronic Lckng Diffrntl - 3/4 Flt; 12/OCT/2020"
+    ],
+    [
+      "Gear and Pinion Assy - Driving",
+      "4209",
+      "05H - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 4.10 Ratio; 22/JUL/2021"
+    ],
+    [
+      "Gear Assy - Input",
+      "7G192",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Input",
+      "7G192",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Input",
+      "7G192",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Planet",
+      "7D006",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Gear Assy - Planet",
+      "7D006",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Gear Assy - Planet",
+      "7D006",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Gear Assy - Planet",
+      "7F465",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Planet",
+      "7F465",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Planet",
+      "7F465",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Sun",
+      "7D063",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Gear Assy - Sun",
+      "7D063",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Gear Assy - Sun",
+      "7D063",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Flywheel and Ring Gear Assy",
+      "6375",
+      "10A - Flywheel, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Flywheel and Ring Gear Assy",
+      "6375",
+      "10B - Flywheel, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Flywheel and Ring Gear Assy",
+      "6375",
+      "10C - Flywheel, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Flywheel and Ring Gear Assy",
+      "6375",
+      "10D - Flywheel, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Flywheel and Ring Gear Assy",
+      "6375",
+      "10M - Flywheel, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Flywheel and Ring Gear Assy",
+      "6477",
+      "10M - Flywheel, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Gear",
+      "7F241",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing - Gear",
+      "7F241",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Gear",
+      "7F241",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Bearing",
+      "4B413",
+      "05 - Front Axle Case, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio, 4.10 Ratio, LHD 4WD (Part Time Drive), RHD 4WD (PTD); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "10A - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, FRONT; 22/JUL/2021"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "10AF - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, FRONT; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "10G - Transfer Drive Components, With Electric Transfer Case, FRONT; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7025",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Bearing",
+      "7F373",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7F373",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7F373",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "47J - Output Shafts, LHD RWD, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "47K - Output Shafts, LHD RWD, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "47L - Output Shafts, LHD 4WD (Part Time Drive), 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "47M - Output Shafts, LHD 4WD (Part Time Drive), Mod Hybrid Trnaxle - A10R80-MHT; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7G178",
+      "47W - Output Shafts, LHD 4WD (Part Time Drive), Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bearing",
+      "7H338",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Bearing",
+      "7K189",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Bearing",
+      "7K189",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Bearing",
+      "7K189",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Bearing",
+      "7P477",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Bearing",
+      "7P477",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Bearing",
+      "7P477",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Bearing - Connecting Rod",
+      "6211",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bearing - Connecting Rod",
+      "6211",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Connecting Rod",
+      "6211",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Connecting Rod\n2 Per Package, \nStandard",
+      "6211",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Connecting Rod\nLower",
+      "6211",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Connecting Rod\nUpper",
+      "6211",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main",
+      "6333",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bearing - Crankshaft Main",
+      "6333",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main",
+      "6333",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main",
+      "6333",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nSTD Grade 1",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nSTD Grade 2",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nSTD Grade 3",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nSTD Grade 4",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nStd Grade 6",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nStd, Grade 5",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main\nStd, Grade 6",
+      "6333",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust",
+      "6337",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust",
+      "6337",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust\nSTD Grade 1",
+      "6337",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust\nSTD Grade 2",
+      "6337",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust\nSTD Grade 3",
+      "6337",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust\nSTD Grade 4",
+      "6337",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust\nStd, Grade 5",
+      "6337",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bearing - Crankshaft Main Thrust\nStd, Grade 6",
+      "6337",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "6652",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "6652",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "6652",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Gear",
+      "7177",
+      "10AG - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, Rear; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7177",
+      "10B - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, Rear; 22/JUL/2021"
+    ],
+    [
+      "Gear",
+      "7177",
+      "10H - Transfer Drive Components, With Electric Transfer Case, Rear; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7177",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7177",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7177",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Gear",
+      "7J048",
+      "10F - Transmission Pump Assy, Starter - Stop/Start System, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7J048",
+      "10G - Transmission Pump Assy, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Gear",
+      "7J048",
+      "10N - Transmission Pump Assy, Less Electric Starter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Gear - Crankshaft",
+      "6306",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Gear - Crankshaft",
+      "6306",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Gear - Crankshaft",
+      "6306",
+      "05C - Oil Pump, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Gear - Crankshaft",
+      "6306",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Gear - Crankshaft",
+      "6306",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Gear - Crankshaft",
+      "6306",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Gear - Differential Side",
+      "4236",
+      "05A - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 9.75\" Axle, 3.31 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear - Differential Side",
+      "4236",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Gear - Differential Side",
+      "4236",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear - Differential Side",
+      "4236",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Gear - Differential Side",
+      "4236",
+      "10 - Components - Front Axle Diff & Carr, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio, 4.10 Ratio, LHD 4WD (Part Time Drive), RHD 4WD (PTD); 12/OCT/2020"
+    ],
+    [
+      "Gear - Parking",
+      "7A233",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Gear - Parking",
+      "7A233",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Gear Assy - Steering",
+      "3504",
+      "05A - Steering Gear, LHD; 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7A153",
+      "10A - Transfer Drive Components, 2 Speed Tod W/4HI-LOC, FRONT; 22/JUL/2021"
+    ],
+    [
+      "Ring Gear",
+      "7A153",
+      "10AF - Transfer Drive Components, 4X4 2 Speed Transfer Case With Tod, FRONT; 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7A153",
+      "10G - Transfer Drive Components, With Electric Transfer Case, FRONT; 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7A153",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7A153",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7A153",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Ring Gear",
+      "7D062",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7D062",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7D062",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Ring Gear",
+      "7D392",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7D392",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Ring Gear",
+      "7D392",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Ring Gear & Cover",
+      "7S026",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Ring Gear & Cover",
+      "7S026",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Ring Gear & Cover",
+      "7S026",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Cone - \nBearing",
+      "4630",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Cone - \nBearing",
+      "4630",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone - \nBearing",
+      "4630",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone - \nCup And Bearing",
+      "4630",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Cone - \nCup And Bearing",
+      "4630",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone - \nCup And Bearing",
+      "4630",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05A - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 9.75\" Axle, 3.31 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05E - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 3.31 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05F - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 9.75\" Axle, 3.55 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05G - Components - Rear Axle Diff & Carr., With 9.75\" Axle, 3.55 Ratio, 3.73 Ratio, Electronic Lckng Diffrntl - 3/4 Flt; 12/OCT/2020"
+    ],
+    [
+      "Cone and Roller Assy - \nCup And Bearing",
+      "4621",
+      "05H - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 4.10 Ratio; 22/JUL/2021"
+    ],
+    [
+      "Disc Assy - Clutch",
+      "19D786",
+      "10B - Air Conditioning Condensr/Compressr, 5.0L Coyote, 5.2L Predator OHC SC PFI Gas, Compressor Assy; 12/OCT/2020"
+    ],
+    [
+      "Disc Assy - Clutch",
+      "19D786",
+      "10C - Air Conditioning Condensr/Compressr, 3.3L Duratec, Compressor Assy; 12/OCT/2020"
+    ],
+    [
+      "Disc Assy - Clutch",
+      "19D786",
+      "10D - Air Conditioning Condensr/Compressr, 3.0L EcoBlue, Compressor Assy; 12/OCT/2020"
+    ],
+    [
+      "Disc Assy - Clutch",
+      "19D786",
+      "10E - Air Conditioning Condensr/Compressr, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, LHD, Compressor Assy; 12/OCT/2020"
+    ],
+    [
+      "Disc Assy - Clutch",
+      "19D786",
+      "10G - Air Conditioning Condensr/Compressr, 2.7L DOHC 4V DI GT V6 GAS/FFV, Compressor Assy; 12/OCT/2020"
+    ],
+    [
+      "Drive Plate - Clutch",
+      "7B164",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Drive Plate - Clutch",
+      "7B164",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Drive Plate - Clutch",
+      "7B164",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Kit - Pigtail Wiring\n16 Cavity, \nModule Gearshift",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nAir Conditioning Compressor Clutch",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nClutch, \nPressure Sensor, \nEngine",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "25E - Drive Plates - Low Clutch, 10 Speed Auto Transmission (10R80), Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "25F - Drive Plates - Low Clutch, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "25L - Drive Plates - Low Clutch, Mod Hybrid Trnaxle - A10R80-MHT, Same As D Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "32E - Intermediate Clutch and Components, 10 Speed Auto Transmission (10R80), Same As A Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "32F - Intermediate Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As A Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "32L - Intermediate Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As A Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "35E - Overdrive Clutch and Components, 10 Speed Auto Transmission (10R80), Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "35F - Overdrive Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "35M - Overdrive Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As B Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7B164",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch Internal Spline\nTwo Sided Friction Plate",
+      "7E313",
+      "40E - High Clutch And Components, 10 Speed Auto Transmission (10R80), Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline\nTwo Sided Friction Plate",
+      "7E313",
+      "40F - High Clutch And Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline\nTwo Sided Friction Plate",
+      "7E313",
+      "40L - High Clutch And Components, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Race Assy - One-Way Clutch - Outer",
+      "7A089",
+      "35E - Overdrive Clutch and Components, 10 Speed Auto Transmission (10R80), Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Race Assy - One-Way Clutch - Outer",
+      "7A089",
+      "35F - Overdrive Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Solenoid Assy - \nBand 2, \nClutch Solenoid",
+      "7G383",
+      "50F - Valve Body - Main Control & Servo's, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Solenoid Assy - \nBand 2, \nClutch Solenoid",
+      "7G383",
+      "50G - Valve Body - Main Control & Servo's, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Solenoid Assy - \nBand 3, \nClutch Solenoid",
+      "7G383",
+      "50F - Valve Body - Main Control & Servo's, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Solenoid Assy - \nBand 3, \nClutch Solenoid",
+      "7G383",
+      "50G - Valve Body - Main Control & Servo's, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head",
+      "6345",
+      "10B - Cylinder Block and Plugs, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head",
+      "6345",
+      "10B - Cylinder Block and Plugs, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head",
+      "6345",
+      "10C - Cylinder Block and Plugs, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head",
+      "6345",
+      "10M - Cylinder Block and Plugs, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nFine Thread, \n15MM Hex Head, \nM10 x 115MM",
+      "6345",
+      "10B - Cylinder Block and Plugs, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nFine Thread, \n15MM Hex Head, \nM10 x 115MM",
+      "6345",
+      "10M - Cylinder Block and Plugs, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM10 x 94MM, \nFine Thread, \n15MM Hex Head",
+      "6345",
+      "10B - Cylinder Block and Plugs, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM10 x 94MM, \nFine Thread, \n15MM Hex Head",
+      "6345",
+      "10M - Cylinder Block and Plugs, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM11 X 1.5, \nInner",
+      "6345",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM11 X 1.5, \nInner",
+      "6345",
+      "10D - Cylinder Block and Plugs, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM8 x 19MM, \nM11 X 1.5, \nStud",
+      "6345",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM8 x 28MM",
+      "6345",
+      "10B - Cylinder Block and Plugs, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM9",
+      "6345",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nM9",
+      "6345",
+      "10D - Cylinder Block and Plugs, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nOuter, \nM9 X 87",
+      "6345",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Bolt - Bearing Cap - Hex. Head\nOuter, \nM9 X 87",
+      "6345",
+      "10D - Cylinder Block and Plugs, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Cone - \nBearing",
+      "4630",
+      "10 - Components - Front Axle Diff & Carr, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio, 4.10 Ratio, LHD 4WD (Part Time Drive), RHD 4WD (PTD); 12/OCT/2020"
+    ],
+    [
+      "Cup - Bearing - Outer",
+      "4222",
+      "05A - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 9.75\" Axle, 3.31 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cup - Bearing - Outer",
+      "4222",
+      "05E - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 3.31 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cup - Bearing - Outer",
+      "4222",
+      "05F - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 9.75\" Axle, 3.55 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Cup - Bearing - Outer",
+      "4222",
+      "05G - Components - Rear Axle Diff & Carr., With 9.75\" Axle, 3.55 Ratio, 3.73 Ratio, Electronic Lckng Diffrntl - 3/4 Flt; 12/OCT/2020"
+    ],
+    [
+      "Cup - Bearing - Outer",
+      "4222",
+      "05H - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 4.10 Ratio; 22/JUL/2021"
+    ],
+    [
+      "Cylinder - Forward Clutch",
+      "7A360",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Cylinder - Forward Clutch",
+      "7A360",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Cylinder - Forward Clutch",
+      "7A360",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Lever - Gear Shift",
+      "7210",
+      "05C - Steering Column, Steering Col-Man Tilt/Tele-Col Shf, LHD; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nBlack Onyx W/Code Orange",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nBlack Onyx/Black",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nDark Ash",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nDk Smoked Truffle W/ Med Dk Smoked Truffle Stitching",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nLight Mint",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nMedium Light Space Grey",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nMesa Antique W/Norias Solid Stitching",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Lever - Gear Shift\nPecan",
+      "7210",
+      "10D - Console - Floor, LHD, Console Mounted E-Shift Linkage, Lower; 12/OCT/2020"
+    ],
+    [
+      "Piston - Forward Clutch",
+      "7A262",
+      "28E - Direct Clutch and Components, 10 Speed Auto Transmission (10R80), Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston - Forward Clutch",
+      "7A262",
+      "28F - Direct Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston - Forward Clutch",
+      "7A262",
+      "28L - Direct Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As C Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston - Forward Clutch",
+      "7H360",
+      "40E - High Clutch And Components, 10 Speed Auto Transmission (10R80), Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston - Forward Clutch",
+      "7H360",
+      "40F - High Clutch And Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston - Forward Clutch",
+      "7H360",
+      "40L - High Clutch And Components, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Piston - Intermediate Clutch",
+      "7E005",
+      "32E - Intermediate Clutch and Components, 10 Speed Auto Transmission (10R80), Same As A Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston - Intermediate Clutch",
+      "7E005",
+      "32F - Intermediate Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As A Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston - Intermediate Clutch",
+      "7E005",
+      "32L - Intermediate Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As A Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston - Intermediate Clutch",
+      "7E005",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Piston - Intermediate Clutch",
+      "7E005",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Piston - Intermediate Clutch",
+      "7E005",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "25E - Drive Plates - Low Clutch, 10 Speed Auto Transmission (10R80), Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "25F - Drive Plates - Low Clutch, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "28E - Direct Clutch and Components, 10 Speed Auto Transmission (10R80), Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "28F - Direct Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "35E - Overdrive Clutch and Components, 10 Speed Auto Transmission (10R80), Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "35F - Overdrive Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7F220",
+      "32E - Intermediate Clutch and Components, 10 Speed Auto Transmission (10R80), Same As A Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7F220",
+      "32F - Intermediate Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As A Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.1-2.2MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.1-2.2MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.1-2.2MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.3-2.4MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.3-2.4MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.3-2.4MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.5-2.6MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.5-2.6MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.5-2.6MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.7-2.8MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.7-2.8MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.7-2.8MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.9-3MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.9-3MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n2.9-3MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.1-3.2MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.1-3.2MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.1-3.2MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.3-3.4MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.3-3.4MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.3-3.4MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.5-3.6MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.5-3.6MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline\n3.5-3.6MM, \nFront Location Is Select Fit; Rear Is Always HL3Z-7B066-N",
+      "7B066",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7H095",
+      "28E - Direct Clutch and Components, 10 Speed Auto Transmission (10R80), Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7H095",
+      "28F - Direct Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline",
+      "7H095",
+      "28L - Direct Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As C Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch Internal Spline\nPlate-Steel",
+      "7B164",
+      "40E - High Clutch And Components, 10 Speed Auto Transmission (10R80), Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline\nPlate-Steel",
+      "7B164",
+      "40F - High Clutch And Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch Internal Spline\nPlate-Steel",
+      "7B164",
+      "40L - High Clutch And Components, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Plate-Bearing Retainer",
+      "7094",
+      "03D - Traction Motor And Transmission, Electronic Locking Differential, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Plate-Bearing Retainer",
+      "7094",
+      "03F - Traction Motor And Transmission, Differential, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Plate-Bearing Retainer",
+      "7094",
+      "03G - Traction Motor And Transmission, Rear Axle Less Limited Slip Diff, Rear Drive Unit, Differential; 14/MAR/2022"
+    ],
+    [
+      "Retainer - Bearing",
+      "1195",
+      "42E - Planetary Gear Sets, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Retainer - Bearing",
+      "1195",
+      "42F - Planetary Gear Sets, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Retainer - Bearing",
+      "1195",
+      "42M - Planetary Gear Sets, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Retainer - Bearing",
+      "7A433",
+      "47J - Output Shafts, LHD RWD, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05A - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 9.75\" Axle, 3.31 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05B - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, With 8.8 Axle; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05C - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 8.8 Axle, 3.15 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05D - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 8.8 Axle, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05E - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 3.31 Ratio, 3.73 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05F - Components - Rear Axle Diff & Carr., Rear Axle Less Limited Slip Diff, Electronic Locking Differential, With 9.75\" Axle, 3.55 Ratio; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05G - Components - Rear Axle Diff & Carr., With 9.75\" Axle, 3.55 Ratio, 3.73 Ratio, Electronic Lckng Diffrntl - 3/4 Flt; 12/OCT/2020"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "05H - Components - Rear Axle Diff & Carr., Electronic Locking Differential, With 9.75\" Axle, 4.10 Ratio; 22/JUL/2021"
+    ],
+    [
+      "Spacer - Pinion Bearing",
+      "4662",
+      "10 - Components - Front Axle Diff & Carr, 3.31 Ratio, 3.55 Ratio, 3.73 Ratio, 4.10 Ratio, LHD 4WD (Part Time Drive), RHD 4WD (PTD); 12/OCT/2020"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "25L - Drive Plates - Low Clutch, Mod Hybrid Trnaxle - A10R80-MHT, Same As D Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "28L - Direct Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As C Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "35M - Overdrive Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As B Clutch; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7B442",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Plate - Clutch External Spline",
+      "7F220",
+      "32L - Intermediate Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As A Clutch; 25/JUN/2025"
+    ],
+    [
+      "Switch - Gearshift Selector\nLH",
+      "3F885",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch - Gearshift Selector\nLH",
+      "3F885",
+      "05F - Steering Wheel, Kansas City Plant Build, With Speed Control, Adaptive Speed Control W/CADS III; 08/JAN/2024"
+    ],
+    [
+      "Switch - Gearshift Selector\nRH",
+      "3F884",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch - Gearshift Selector\nRH",
+      "3F884",
+      "05F - Steering Wheel, Kansas City Plant Build, With Speed Control, Adaptive Speed Control W/CADS III; 08/JAN/2024"
+    ],
+    [
+      "Switch - Gearshift Selector\nRH",
+      "3F884",
+      "10C - Switches, Steering Wheel; 12/OCT/2020"
+    ],
+    [
+      "Piston - \n0.5MM Oversize, \nLH",
+      "6108",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Piston - \nLH",
+      "6108",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Piston - \nLH",
+      "6108",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Piston - \nStandard, \nLH",
+      "6108",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Crankshaft Assy",
+      "6303",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Crankshaft Assy",
+      "6303",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Crankshaft Assy",
+      "6303",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Crankshaft Assy",
+      "6303",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "6108",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Piston",
+      "6108",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "15F - Forward Clutch and Components, 10 Speed Auto Transmission (10R80), Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "15G - Forward Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As E Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "15M - Forward Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As E Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "25E - Drive Plates - Low Clutch, 10 Speed Auto Transmission (10R80), Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "25F - Drive Plates - Low Clutch, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "25L - Drive Plates - Low Clutch, Mod Hybrid Trnaxle - A10R80-MHT, Same As D Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "28E - Direct Clutch and Components, 10 Speed Auto Transmission (10R80), Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "28F - Direct Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As C Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "28L - Direct Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As C Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "35E - Overdrive Clutch and Components, 10 Speed Auto Transmission (10R80), Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "35F - Overdrive Clutch and Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As B Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "35M - Overdrive Clutch and Components, Mod Hybrid Trnaxle - A10R80-MHT, Same As B Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "40E - High Clutch And Components, 10 Speed Auto Transmission (10R80), Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "40F - High Clutch And Components, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As F Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "40L - High Clutch And Components, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "60G - Converter, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "60H - Converter, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7A262",
+      "60P - Converter, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Piston",
+      "7D402",
+      "25E - Drive Plates - Low Clutch, 10 Speed Auto Transmission (10R80), Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7D402",
+      "25F - Drive Plates - Low Clutch, Mod Hybrd Trnaxle-A10R80-MHT-X, Same As D Clutch; 12/OCT/2020"
+    ],
+    [
+      "Piston",
+      "7D402",
+      "25L - Drive Plates - Low Clutch, Mod Hybrid Trnaxle - A10R80-MHT, Same As D Clutch; 25/JUN/2025"
+    ],
+    [
+      "Piston - \n0.5MM Oversize, \nRH",
+      "6108",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Piston - \nRH",
+      "6108",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Piston - \nRH",
+      "6108",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Piston - \nStandard, \nRH",
+      "6108",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Camshaft",
+      "6250",
+      "10B - Camshaft, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nExhaust",
+      "6250",
+      "10A - Camshaft, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Camshaft - \nIntake",
+      "6250",
+      "10A - Camshaft, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Camshaft - \nLH Exhaust Camshaft",
+      "6250",
+      "10B - Camshaft, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Exhaust Camshaft",
+      "6250",
+      "10C - Camshaft, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Exhaust Camshaft",
+      "6250",
+      "10D - Camshaft, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Exhaust Camshaft",
+      "6250",
+      "10M - Camshaft, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Intake Camshaft",
+      "6250",
+      "10B - Camshaft, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Intake Camshaft",
+      "6250",
+      "10C - Camshaft, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Intake Camshaft",
+      "6250",
+      "10D - Camshaft, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nLH Intake Camshaft",
+      "6250",
+      "10M - Camshaft, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Exhaust Camshaft",
+      "6250",
+      "10B - Camshaft, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Exhaust Camshaft",
+      "6250",
+      "10C - Camshaft, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Exhaust Camshaft",
+      "6250",
+      "10D - Camshaft, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Exhaust Camshaft",
+      "6250",
+      "10M - Camshaft, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Intake Camshaft",
+      "6250",
+      "10C - Camshaft, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Intake Camshaft",
+      "6250",
+      "10D - Camshaft, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Camshaft - \nRH Intake Camshaft",
+      "6250",
+      "10M - Camshaft, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15A - Cylinder Head, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15B - Cylinder Head, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15C - Cylinder Head Cover, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15E - Cylinder Head Cover, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15F - Cylinder Head Cover, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15N - Cylinder Head, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15S - Cylinder Head Cover, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "10B - Cylinder Block and Plugs, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSolenoid , Variable Camshaft Timing",
+      "14S411",
+      "45EB - Pigtail Wiring Kits, Actuators And Solenoids; 18/DEC/2023"
+    ],
+    [
+      "Cover - Camshaft",
+      "6019",
+      "15C - Cylinder Head, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Cylinder Head Assy - \nAssembled Head with Valves And Springs, \nLH, \nLess Camshaft",
+      "6049",
+      "15A - Cylinder Head, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Cylinder Head Assy - \nAssembled Head with Valves And Springs, \nLH, \nLess Camshaft",
+      "6049",
+      "15B - Cylinder Head, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Cylinder Head Assy - \nRH, \nAssembled Head with Valves And Springs, \nLess Camshaft",
+      "6049",
+      "15A - Cylinder Head, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Cylinder Head Assy - \nRH, \nAssembled Head with Valves And Springs, \nLess Camshaft",
+      "6049",
+      "15B - Cylinder Head, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Crankshaft Position , CPS",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "NOZZLE - PISTON COOLING",
+      "6K868",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "NOZZLE - PISTON COOLING",
+      "6K868",
+      "10B - Cylinder Block and Plugs, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "NOZZLE - PISTON COOLING",
+      "6K868",
+      "10C - Cylinder Block and Plugs, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "NOZZLE - PISTON COOLING",
+      "6K868",
+      "10D - Cylinder Block and Plugs, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "NOZZLE - PISTON COOLING",
+      "6K868",
+      "10M - Cylinder Block and Plugs, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Seal Assy - Crankshaft Oil - Front",
+      "6700",
+      "10A - Timing Gear Covers, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Seal Assy - Crankshaft Oil - Front",
+      "6700",
+      "10B - Timing Gear Covers, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Seal Assy - Crankshaft Oil - Front",
+      "6700",
+      "10C - Timing Gear Covers, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Seal Assy - Crankshaft Oil - Front",
+      "6700",
+      "10D - Timing Gear Covers, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Seal Assy - Crankshaft Oil - Front",
+      "6700",
+      "10E - Timing Gear Covers, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Seal Assy - Crankshaft Oil - Front",
+      "6700",
+      "10M - Timing Gear Covers, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Arm - Timing Chain Tensioner",
+      "6K255",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Arm - Timing Chain Tensioner",
+      "6K255",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Arm - Timing Chain Tensioner",
+      "6K255",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Arm - Timing Chain Tensioner",
+      "6K255",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Arm - Timing Chain Tensioner\nLH",
+      "6K255",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Arm - Timing Chain Tensioner\nRH",
+      "6K255",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing",
+      "6268",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Belt/Chain - Timing",
+      "6268",
+      "05D - Oil Pump, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing",
+      "6268",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing",
+      "6268",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing",
+      "6268",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing\nPrimary",
+      "6268",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing\nSecondary",
+      "6268",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Belt/Chain - Timing\nSecondary",
+      "6268",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Belt/Chain - Timing\nSecondary",
+      "6268",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft",
+      "6582",
+      "15A - Cylinder Head Cover, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Cover - Camshaft\nLH",
+      "6582",
+      "15B - Cylinder Head Cover, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nLH",
+      "6582",
+      "15C - Cylinder Head Cover, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nLH",
+      "6582",
+      "15E - Cylinder Head Cover, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nLH",
+      "6582",
+      "15F - Cylinder Head Cover, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nLH",
+      "6582",
+      "15S - Cylinder Head Cover, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nRH",
+      "6582",
+      "15B - Cylinder Head Cover, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nRH",
+      "6582",
+      "15C - Cylinder Head Cover, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nRH",
+      "6582",
+      "15E - Cylinder Head Cover, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nRH",
+      "6582",
+      "15F - Cylinder Head Cover, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Cover - Camshaft\nRH",
+      "6582",
+      "15S - Cylinder Head Cover, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Disc - Timing Belt Guide",
+      "6B274",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Disc - Timing Belt Guide",
+      "6B274",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Disc - Timing Belt Guide",
+      "6B274",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Disc - Timing Belt Guide",
+      "6B274",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Disc - Timing Belt Guide\nLH",
+      "6B274",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Disc - Timing Belt Guide\nRH",
+      "6B274",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Kit - Piston Ring",
+      "6148",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Kit - Piston Ring",
+      "6148",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Kit - Piston Ring\n0.5MM Oversize",
+      "6148",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Kit - Piston Ring\nStandard",
+      "6148",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Kit - Piston Ring\nStandard",
+      "6148",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Kit - Piston Ring\nSTD",
+      "6148",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "NOZZLE - PISTON COOLING",
+      "6K868",
+      "10B - Cylinder Block and Plugs, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Pin - Piston",
+      "6135",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Pin - Piston",
+      "6135",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Pin - Piston",
+      "6135",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pin - Piston",
+      "6135",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Pin - Piston",
+      "6135",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Retainer - Piston Pin",
+      "6140",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Retainer - Piston Pin",
+      "6140",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Retainer - Piston Pin",
+      "6140",
+      "05C - Crankshaft/Pistons and Bearings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Retainer - Piston Pin",
+      "6140",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Retainer - Piston Pin",
+      "6140",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Solenoid - Engine Variable Timing",
+      "6M280",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Solenoid - Engine Variable Timing",
+      "6M280",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Solenoid - Engine Variable Timing",
+      "6M280",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Solenoid - Engine Variable Timing",
+      "6M280",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Solenoid - Engine Variable Timing\nBlack Connector",
+      "6M280",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Solenoid - Engine Variable Timing\nGray Connector Color",
+      "6M280",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Sprocket - Camshaft",
+      "6256",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sprocket - Camshaft",
+      "6256",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Sprocket - Camshaft\nIntake",
+      "6256",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Sprocket - Camshaft\nIntake",
+      "6256",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Sprocket - Camshaft\nIntake, \nAlternate Service Part Check Availability",
+      "6256",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Belt",
+      "6K254",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Tensioner - Timing Belt",
+      "6K254",
+      "05E - Timing Gear, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Belt\nSecondary, \nFor Service O-Rings; Use AT4Z 8527 B",
+      "6K254",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Chain",
+      "6L266",
+      "05A - Timing Gear, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Tensioner - Timing Chain",
+      "6L266",
+      "05B - Timing Gear, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Chain\nLH",
+      "6L266",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Chain\nLH",
+      "6L266",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Chain\nRH",
+      "6L266",
+      "05D - Timing Gear, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Tensioner - Timing Chain\nRH",
+      "6L266",
+      "05P - Timing Gear, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Washer - Crankshaft Main Brg Thrust",
+      "6A341",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Washer - Crankshaft Main Brg Thrust",
+      "6A341",
+      "05D - Crankshaft/Pistons and Bearings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Washer - Crankshaft Main Brg Thrust\n2 Per Package",
+      "6A341",
+      "05B - Crankshaft/Pistons and Bearings, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Washer - Crankshaft Main Brg Thrust\n2 Per Package",
+      "6A341",
+      "05M - Crankshaft/Pistons and Bearings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nBlack, \nCenter",
+      "611B60",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nBlack, \nCenter",
+      "611B60",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nBlack, \nCenter",
+      "611B64",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nBlack, \nCenter",
+      "611B64",
+      "10A - Rear Seat Belts, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nBlack, \nCenter",
+      "611B64",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nJava Interior, \nCenter",
+      "611B64",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt - \nNavy Pier, \nCenter",
+      "611B64",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Tensioner",
+      "6A228",
+      "05F - Pulleys and Drive Belts, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Tensioner",
+      "6A228",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Belt and Buckle Assy - \nBlack, \nCenter",
+      "611B70",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt and Buckle Assy - \nBlack, \nCenter",
+      "611B70",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Belt and Buckle Assy - \nBlack, \nCenter",
+      "611B70",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25A - Exhaust Manifold, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25B - Exhaust Manifold, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25E - Exhaust Manifold, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25M - Exhaust Manifold, 3.5L CYCLON-D4- G-DI-TIVCT-UPG; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25N - Exhaust Manifold, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25A - Exhaust Manifold, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25B - Exhaust Manifold, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25E - Exhaust Manifold, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25M - Exhaust Manifold, 3.5L CYCLON-D4- G-DI-TIVCT-UPG; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25N - Exhaust Manifold, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Inlet",
+      "9424",
+      "20B - Intake Manifold, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Inlet",
+      "9424",
+      "20D - Intake Manifold, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Inlet",
+      "9424",
+      "20D - Intake Manifold, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Manifold Assy - Inlet",
+      "9424",
+      "20M - Intake Manifold, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply",
+      "9D280",
+      "05A - Fuel Injectors and Pipes, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Manifold Asy - Fuel Supply",
+      "9D280",
+      "05R - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply",
+      "9F792",
+      "05B - Fuel Injectors and Pipes, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply",
+      "9F792",
+      "05M - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020-27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply",
+      "9F792",
+      "05R - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLH",
+      "9D280",
+      "05B - Fuel Injectors and Pipes, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLH",
+      "9D280",
+      "05C - Fuel Injectors and Pipes, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLH",
+      "9D280",
+      "05D - Fuel Injectors and Pipes, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLH",
+      "9D280",
+      "05F - Fuel Injectors and Pipes, 2.7L DOHC 4V DI GT V6 GAS/FFV; 17/FEB/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLH",
+      "9D280",
+      "05M - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020-27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLH",
+      "9D280",
+      "05R - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nLow Pressure",
+      "9F792",
+      "05D - Fuel Injectors and Pipes, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nRH",
+      "9D280",
+      "05B - Fuel Injectors and Pipes, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nRH",
+      "9D280",
+      "05C - Fuel Injectors and Pipes, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nRH",
+      "9D280",
+      "05D - Fuel Injectors and Pipes, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nRH",
+      "9D280",
+      "05F - Fuel Injectors and Pipes, 2.7L DOHC 4V DI GT V6 GAS/FFV; 17/FEB/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nRH",
+      "9D280",
+      "05M - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020-27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Fuel Supply\nRH",
+      "9D280",
+      "05R - Fuel Injectors and Pipes, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 27/JUN/2025"
+    ],
+    [
+      "Manifold Asy - Water",
+      "8C511",
+      "15AB - Radiator/Coolant Overflow Container, 3.5L V6, (+)\"CDN/MEX/USA\", Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Manifold Asy - Water",
+      "8C511",
+      "15AF - Radiator/Coolant Overflow Container, 3.5L V6, (-) GVMT Service Administration, (-)\"RA\", (-)\"CHL\", Kansas City Plant Build, Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Manifold Asy - Water",
+      "8C511",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Manifold Asy - Water",
+      "8C511",
+      "15H - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 11, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Pulley Assy - Tension",
+      "6A228",
+      "05B - Pulleys and Drive Belts, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Pulley Assy - Tension",
+      "6A228",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pulley Assy - Tension",
+      "6A228",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley Assy - Tension",
+      "6A228",
+      "05N - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Power Convertor, 230V Power Convertor, Power Convertor, LHD, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley Assy - Tension",
+      "6A228",
+      "05P - Pulleys and Drive Belts, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Pulley Assy - Tension",
+      "6A228",
+      "05R - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15A - Radiator/Coolant Overflow Container, 5.2L Predator OHC SC PFI Gas, Hi Temperature Circuit; 18/OCT/2022"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15AB - Radiator/Coolant Overflow Container, 3.5L V6, (+)\"CDN/MEX/USA\", Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15AF - Radiator/Coolant Overflow Container, 3.5L V6, (-) GVMT Service Administration, (-)\"RA\", (-)\"CHL\", Kansas City Plant Build, Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15AG - Radiator/Coolant Overflow Container, 3.5L V6, Engine/EV Motor Cooling; 15/NOV/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15B - Radiator/Coolant Overflow Container, 2.7L DOHC 4V DI GT V6 GAS/FFV; 17/JUL/2017"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15B - Radiator/Coolant Overflow Container, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15B - Radiator/Coolant Overflow Container, 5.2L Predator OHC SC PFI Gas, Low Temperature Circuit; 18/OCT/2022"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15E - Radiator/Coolant Overflow Container, 5.0L Coyote; 15/NOV/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15H - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 11, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15U - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, XLT Series, Lariat Series, King Ranch Series, Platinium Series, Limited Series; 22/JUL/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15V - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Special Purpose Vehicle, XL, Tremor Series; 22/JUL/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15W - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Police Vehicle, XL; 22/JUL/2021"
+    ],
+    [
+      "Radiator Assy",
+      "8005",
+      "15Z - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Raptor Series; 22/JUL/2021"
+    ],
+    [
+      "Seat Belt Assy - \nBlack",
+      "611B68",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nCenter",
+      "612B19",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "611B69",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "61203",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "61203",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "611B68",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "61202",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "61202",
+      "05B - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "61202",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "61202",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "61202",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nLH",
+      "611B69",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nLH",
+      "61203",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nRH",
+      "611B68",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nRH",
+      "61202",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Support - Radiator",
+      "16138",
+      "05A - Front Panels, Aprons & Side Members, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Support - Radiator",
+      "16138",
+      "05B - Front Panels, Aprons & Side Members, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05A - Pulleys and Drive Belts, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05B - Pulleys and Drive Belts, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05F - Pulleys and Drive Belts, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05N - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Power Convertor, 230V Power Convertor, Power Convertor, LHD, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05P - Pulleys and Drive Belts, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Belt",
+      "8620",
+      "05R - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Drive Belt Tensioner",
+      "6C348",
+      "05A - Pulleys and Drive Belts, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Pulley - Compressor",
+      "6A312",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Compressor\nNot Used On This Application",
+      "6A312",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Idler",
+      "8678",
+      "05A - Pulleys and Drive Belts, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Pulley - Idler",
+      "8678",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Idler",
+      "8678",
+      "05F - Pulleys and Drive Belts, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Idler",
+      "8678",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Idler",
+      "8678",
+      "05N - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Power Convertor, 230V Power Convertor, Power Convertor, LHD, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Idler",
+      "8678",
+      "05R - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump",
+      "8509",
+      "05A - Pulleys and Drive Belts, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Pulley - Water Pump",
+      "8509",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump",
+      "8509",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump\nFor 3 Bolt Pulley Flange",
+      "8509",
+      "05B - Pulleys and Drive Belts, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump\nFor 3 Bolt Pulley Flange",
+      "8509",
+      "05F - Pulleys and Drive Belts, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump\nFor 3 Bolt Pulley Flange",
+      "8509",
+      "05N - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Power Convertor, 230V Power Convertor, Power Convertor, LHD, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump\nFor 3 Bolt Pulley Flange",
+      "8509",
+      "05P - Pulleys and Drive Belts, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Pulley - Water Pump\nFor 3 Bolt Pulley Flange",
+      "8509",
+      "05R - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05A - Pulleys and Drive Belts, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05B - Pulleys and Drive Belts, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05C - Pulleys and Drive Belts, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05F - Pulleys and Drive Belts, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05N - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Power Convertor, 230V Power Convertor, Power Convertor, LHD, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05P - Pulleys and Drive Belts, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Pulley - With Vibration Damper",
+      "6312",
+      "05R - Pulleys and Drive Belts, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05A - Alternator and Mountings, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05D - Alternator and Mountings, 3.5L CYCLON-D4- G-DI-TIVCT-UPG; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05E - Alternator and Mountings, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Pulley-Alternator",
+      "10344",
+      "05F - Alternator and Mountings, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Tensioner",
+      "6B209",
+      "05A - Pulleys and Drive Belts, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Tensioner",
+      "6B209",
+      "05F - Pulleys and Drive Belts, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Tensioner",
+      "6B209",
+      "05G - Pulleys and Drive Belts, 5.0L Coyote, Power Inverter #2; 12/OCT/2020"
+    ],
+    [
+      "Drive Belt - Oil Pump",
+      "6B651",
+      "05C - Oil Pump, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy",
+      "611B08",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy",
+      "611B08",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack",
+      "611B08",
+      "05B - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack",
+      "611B08",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack Onyx",
+      "611B08",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "611B09",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "611B09",
+      "05B - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "611B09",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "611B09",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nLH",
+      "611B09",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "611B08",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "611B08",
+      "05B - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "611B08",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nBlack, \nRH",
+      "611B08",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nLH",
+      "611B09",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nLH",
+      "611B09",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nJava Interior, \nRH",
+      "611B08",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nLH",
+      "611B09",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nLH",
+      "611B09",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nRH",
+      "611B08",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Seat Belt Assy - \nRH",
+      "611B08",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Support - Radiator",
+      "16139",
+      "05A - Front Panels, Aprons & Side Members, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Support - Radiator",
+      "16139",
+      "05B - Front Panels, Aprons & Side Members, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Support - Radiator",
+      "16152",
+      "10A - Dash Panel and Front Fenders, F-150, BEV Version; 12/OCT/2020"
+    ],
+    [
+      "Support - Radiator",
+      "16152",
+      "10B - Dash Panel and Front Fenders, Performance Version; 22/JUL/2021"
+    ],
+    [
+      "Support - Radiator",
+      "8A193",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator",
+      "8A193",
+      "15H - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 11, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nLH",
+      "8A193",
+      "05AE - Radiator Grille and Front Bumper, Painted Grille - Style # 6; 11/NOV/2024"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nLH",
+      "8A193",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nLH",
+      "8A193",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nLH",
+      "8A193",
+      "05S - Radiator Grille and Front Bumper, With Body Coloured Front Grille, Painted Grille - Style #8; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nLH",
+      "8A193",
+      "05W - Radiator Grille and Front Bumper, Grille - Molded In Color; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nRH",
+      "8A193",
+      "05AE - Radiator Grille and Front Bumper, Painted Grille - Style # 6; 11/NOV/2024"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nRH",
+      "8A193",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nRH",
+      "8A193",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nRH",
+      "8A193",
+      "05S - Radiator Grille and Front Bumper, With Body Coloured Front Grille, Painted Grille - Style #8; 18/DEC/2023"
+    ],
+    [
+      "Support - Radiator\nCarbon Black, \nRH",
+      "8A193",
+      "05W - Radiator Grille and Front Bumper, Grille - Molded In Color; 18/DEC/2023"
+    ],
+    [
+      "Buckle Assy - Seat Belt\nBlack, \nCenter",
+      "60044",
+      "10A - Rear Seat Belts, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Buckle Assy - Seat Belt\nBlack, \nCenter",
+      "60044",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Buckle Assy - Seat Belt\nBlack, \nRH",
+      "60044",
+      "10A - Rear Seat Belts, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Buckle Assy - Seat Belt\nBlack, \nRH",
+      "60044",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Buckle Assy - Seat Belt\nJava Interior, \nRH",
+      "60044",
+      "10B - Rear Seat Belts, With Standard Rear Seat Belts, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Grille - Radiator",
+      "8200",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator",
+      "8200",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05AE - Radiator Grille and Front Bumper, Painted Grille - Style # 6; 11/NOV/2024"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05AR - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05L - Radiator Grille and Front Bumper, With Painted Front Grille, Painted Grille - Style # 3; 12/OCT/2020"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05S - Radiator Grille and Front Bumper, With Body Coloured Front Grille, Painted Grille - Style #8; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05T - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nAgate Black",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nAgate Black/Black",
+      "8200",
+      "05AR - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nAgate Black/Black",
+      "8200",
+      "05T - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBlack, \nLH",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nBlack, \nLH",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBlack, \nRH",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nBlack, \nRH",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome",
+      "8200",
+      "05AR - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome",
+      "8200",
+      "05T - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome Surround With Sinister Bronze Bar",
+      "8200",
+      "05AR - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome Surround With Sinister Bronze Bar",
+      "8200",
+      "05T - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome, \nLH",
+      "8200",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome, \nLH",
+      "8200",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome, \nRH",
+      "8200",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nBright Chrome, \nRH",
+      "8200",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nCarbon Black",
+      "8200",
+      "05N - Radiator Grille and Front Bumper, BEV Version, Front Grille; 14/MAR/2022"
+    ],
+    [
+      "Grille - Radiator\nCarbon Black",
+      "8200",
+      "05W - Radiator Grille and Front Bumper, Grille - Molded In Color; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nDark Carbon Gray",
+      "8200",
+      "05S - Radiator Grille and Front Bumper, With Body Coloured Front Grille, Painted Grille - Style #8; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nDark Matter Gray",
+      "8200",
+      "05N - Radiator Grille and Front Bumper, BEV Version, Front Grille; 14/MAR/2022"
+    ],
+    [
+      "Grille - Radiator\nGreyion Fine Metal",
+      "8200",
+      "05N - Radiator Grille and Front Bumper, BEV Version, Front Grille; 14/MAR/2022"
+    ],
+    [
+      "Grille - Radiator\nLower, \nLH",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nLower, \nLH",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nLower, \nLH",
+      "8200",
+      "05V - Radiator Grille and Front Bumper, With Painted Grille - Style 2; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nLower, \nRH",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nLower, \nRH",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nLower, \nRH",
+      "8200",
+      "05V - Radiator Grille and Front Bumper, With Painted Grille - Style 2; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nMagnetic",
+      "8200",
+      "05L - Radiator Grille and Front Bumper, With Painted Front Grille, Painted Grille - Style # 3; 12/OCT/2020"
+    ],
+    [
+      "Grille - Radiator\nPaint To Match",
+      "8200",
+      "05AR - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nPaint To Match",
+      "8200",
+      "05T - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nTarnished Dark Anodized",
+      "8200",
+      "05V - Radiator Grille and Front Bumper, With Painted Grille - Style 2; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nUnprimed, \nLH",
+      "8200",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nUnprimed, \nLH",
+      "8200",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nUnprimed, \nRH",
+      "8200",
+      "05AF - Radiator Grille and Front Bumper, Kansas City Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nUnprimed, \nRH",
+      "8200",
+      "05R - Radiator Grille and Front Bumper, Dearborn Plant Build, With Chrome Grille #3, Painted Grille - Style #9; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nUpper, \nLH",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nUpper, \nLH",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nUpper, \nLH",
+      "8200",
+      "05V - Radiator Grille and Front Bumper, With Painted Grille - Style 2; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nUpper, \nRH",
+      "8200",
+      "05AJ - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 08/JAN/2024"
+    ],
+    [
+      "Grille - Radiator\nUpper, \nRH",
+      "8200",
+      "05U - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Chrome Surround/Mesh Insert, Painted Grille - Style #10; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nUpper, \nRH",
+      "8200",
+      "05V - Radiator Grille and Front Bumper, With Painted Grille - Style 2; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nWith Chrome Bars, \nSatin Aluminium",
+      "8200",
+      "05AR - Radiator Grille and Front Bumper, Dearborn Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Grille - Radiator\nWith Chrome Bars, \nSatin Aluminium",
+      "8200",
+      "05T - Radiator Grille and Front Bumper, Kansas City Plant Build, Grille-Body Clr Sur/Acct Clr Insert, Grille-Luxurious Chrome, With Chrome Grille #1; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nBlack / Yellow, \nLoad Limiting Retractor, \nPretensioner , Safety Belt Retractor, \nFront And Rear, \nRH/LH",
+      "14S411",
+      "45GF - Pigtail Wiring Kits, Miscellaneous, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nFor Centre Seatbelt, \nFRONT, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear Center, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear, \nLH, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRH/LH, \nSeat Belt Anchor, \nFRONT, \nPretensioner",
+      "14S411",
+      "45GF - Pigtail Wiring Kits, Miscellaneous, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nRear, \nRH, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Intake Air Temperature, \nSensor , Manifold Absolute Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Manifold Absolute Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRH/LH, \nFRONT, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45GG - Pigtail Wiring Kits, Miscellaneous, Page C; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nOrange / Blue / Yellow, \n2 CAVITY, \nPretensioner , Safety Belt Retractor, \nRH/LH",
+      "14S411",
+      "45GH - Pigtail Wiring Kits, Miscellaneous, Page D; 18/DEC/2023"
+    ],
+    [
+      "Pump Asy Water - \nFor 3 Bolt Pulley Flange",
+      "8501",
+      "10E - Water Pump, 5.0L Coyote, Less Power Convertor, Power Inverter #1; 12/OCT/2020"
+    ],
+    [
+      "Pump Asy Water - \nFor 4 Bolt Pulley Flange",
+      "8501",
+      "10B - Water Pump, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Shutter Asy - Radiator Control",
+      "8475",
+      "15B - Air Deflectors, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Shutter Asy - Radiator Control\nLower",
+      "8475",
+      "15C - Air Deflectors, Performance Version, F-150; 18/DEC/2023"
+    ],
+    [
+      "Shutter Asy - Radiator Control\nUpper",
+      "8475",
+      "15C - Air Deflectors, Performance Version, F-150; 18/DEC/2023"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15A - Radiator/Coolant Overflow Container, 5.2L Predator OHC SC PFI Gas, Hi Temperature Circuit; 18/OCT/2022"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15AB - Radiator/Coolant Overflow Container, 3.5L V6, (+)\"CDN/MEX/USA\", Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15AF - Radiator/Coolant Overflow Container, 3.5L V6, (-) GVMT Service Administration, (-)\"RA\", (-)\"CHL\", Kansas City Plant Build, Battery Cooling; 15/NOV/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15AG - Radiator/Coolant Overflow Container, 3.5L V6, Engine/EV Motor Cooling; 15/NOV/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15B - Radiator/Coolant Overflow Container, 2.7L DOHC 4V DI GT V6 GAS/FFV; 17/JUL/2017"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15B - Radiator/Coolant Overflow Container, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15B - Radiator/Coolant Overflow Container, 5.2L Predator OHC SC PFI Gas, Low Temperature Circuit; 18/OCT/2022"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15E - Radiator/Coolant Overflow Container, 5.0L Coyote; 15/NOV/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15G - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 13, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15H - Radiator/Coolant Overflow Container, BEV Version, Towing Pack 11, FRONT; 18/DEC/2023"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15U - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, XLT Series, Lariat Series, King Ranch Series, Platinium Series, Limited Series; 22/JUL/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15V - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Special Purpose Vehicle, XL, Tremor Series; 22/JUL/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15W - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Police Vehicle, XL; 22/JUL/2021"
+    ],
+    [
+      "Tank Asy - Radiator Overflow",
+      "8A080",
+      "15Z - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Raptor Series; 22/JUL/2021"
+    ],
+    [
+      "Bezel - Seat Belt Guide Bracket\nBlack Onyx",
+      "601B30",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Bezel - Seat Belt Guide Bracket\nBlack Onyx",
+      "601B30",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Bezel - Seat Belt Guide Bracket\nBlack Onyx",
+      "601B30",
+      "10J - Front Seat Back, Less Mobile Office Pack, With Split Bench Front Seat, 20% Seat; 12/OCT/2020"
+    ],
+    [
+      "Bezel - Seat Belt Guide Bracket\nBlack Onyx",
+      "601B30",
+      "10K - Front Seat Back, With Split Bench Front Seat, MOBILE OFFICE PACK, 20% Seat; 12/OCT/2020"
+    ],
+    [
+      "Bracket Assy - Radiator\nCarbon Black, \nLower",
+      "8B026",
+      "05AE - Radiator Grille and Front Bumper, Painted Grille - Style # 6; 11/NOV/2024"
+    ],
+    [
+      "Bracket Assy - Radiator\nCarbon Black, \nUpper",
+      "8A154",
+      "05AE - Radiator Grille and Front Bumper, Painted Grille - Style # 6; 11/NOV/2024"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nBlack Onyx, \nRH/LH",
+      "60262",
+      "05B - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nBlack Onyx, \nRH/LH",
+      "60262",
+      "05C - Front Seat Belts, With Split Bench Front Seat, Super Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nBlack Onyx, \nRH/LH",
+      "60262",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nJava Interior, \nSmoked Truffle, \nRH/LH",
+      "60262",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nLight Slate",
+      "60262",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nLight Slate",
+      "60262",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nLight Slate, \nRH/LH",
+      "60262",
+      "05A - Front Seat Belts, Regular Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nLight Slate, \nRH/LH",
+      "60262",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nLight Slate, \nRH/LH",
+      "60262",
+      "05E - Front Seat Belts, With Split Bench Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Cover - Seat Belt - Upper\nSmoked Truffle, \nRH/LH",
+      "60262",
+      "05D - Front Seat Belts, With Captain Chair Front Seats, Bucket Type Front Seat, Crew Cab; 12/OCT/2020"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "10B - Decals, Warnings And Emissions; 12/OCT/2020"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15A - Radiator/Coolant Overflow Container, 5.2L Predator OHC SC PFI Gas, Hi Temperature Circuit; 18/OCT/2022"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15AG - Radiator/Coolant Overflow Container, 3.5L V6, Engine/EV Motor Cooling; 15/NOV/2021"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15B - Radiator/Coolant Overflow Container, 2.7L DOHC 4V DI GT V6 GAS/FFV; 17/JUL/2017"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15B - Radiator/Coolant Overflow Container, 3.0L EcoBlue; 12/OCT/2020"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15U - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, XLT Series, Lariat Series, King Ranch Series, Platinium Series, Limited Series; 22/JUL/2021"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15V - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Less Special Purpose Vehicle, XL, Tremor Series; 22/JUL/2021"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15W - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Police Vehicle, XL; 22/JUL/2021"
+    ],
+    [
+      "Decal - Radiator Fan Warning",
+      "8653",
+      "15Z - Radiator/Coolant Overflow Container, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Raptor Series; 22/JUL/2021"
+    ]
+  ]
+}

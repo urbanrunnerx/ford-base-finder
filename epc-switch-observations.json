@@ -1,0 +1,641 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Switch Assy",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy",
+      "19C734",
+      "22R - Air Conditioning System, Towing Pack 13, Heat Exchanger And Lines; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy",
+      "19H540",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nAmbient Light Switch, \nFrunk",
+      "9C888",
+      "10D - Switches, BEV Version, Body; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - \nBlack",
+      "13D730",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nBlack",
+      "14529",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nBlack, \nLH",
+      "9C888",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy - \nBlack, \nLH, \nFRONT",
+      "14028",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nBlack, \nRH",
+      "9C888",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy - \nBlack, \nRH, \nFRONT",
+      "14028",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nBlack, \nSwitch , 4X4 Control",
+      "14B596",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nFrunk",
+      "13D730",
+      "05B - Instrument Panel Related Parts, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - \nHill Descent Control Switch",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nHill Descent Control Switch, \nSwitch , Hazard Warning",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nLamp , Storage Compartment , Cargo",
+      "9C888",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nMode Control, \nSwitch , Camera",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nOutside, \nHood Switch",
+      "9C888",
+      "10D - Switches, BEV Version, Body; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - \nOutside, \nRear, \nSwitch , Power Tailgate",
+      "9C888",
+      "10D - Switches, BEV Version, Body; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - \nOutside, \nSwitch , Power Tailgate",
+      "9C888",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nPark Assist Switch",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nPark Assist Switch, \nHill Descent Control Switch",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nPark Assist Switch, \nSwitch , Hazard Warning",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nPark Assist Switch, \nSwitch , Trail Control",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , 4X4 Control",
+      "14B596",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Accessory Power, \nSwitch , Camera",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Camera",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Decklid / Hatch Release, \nFrunk",
+      "9C888",
+      "10D - Switches, BEV Version, Body; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - \nSwitch , Hazard Warning",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Hazard Warning, \nSwitch , Front Park Aid",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Hazard Warning, \nSwitch , Pedal Drive",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Hazard Warning, \nSwitch , Snow Plow",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Parking Brake",
+      "2B623",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Power Tailgate",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Power Tailgate, \nFrunk",
+      "13D730",
+      "05B - Instrument Panel Related Parts, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - \nSwitch , Power Tailgate, \nSwitch , Accessory Power",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Start/Stop",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Start/Stop, \nSwitch , Camera",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Traction Control",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Traction Control, \nHill Descent Control Switch",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Traction Control, \nSwitch , Hazard Warning",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Traction Control, \nSwitch , Pedal Drive",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Traction Control, \nSwitch , Snow Plow",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Traction Control, \nSwitch , Trail Control",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch Assy, \nSpot Lamp",
+      "13D730",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - Direction Indicator",
+      "13K359",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy - Ignition",
+      "11572",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - Ignition\nBlack, \nPush To Start Switch",
+      "10B776",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - Ignition\nPush To Start Switch",
+      "10B776",
+      "05B - Instrument Panel Related Parts, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Switch Assy - Lighting",
+      "11654",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - Oil Pressure",
+      "9D290",
+      "10A - Oil Cooler and Filter, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Switch Assy - Seat Memory Control\nSwitch , Door Lock, \nSwitch , Seat Memory",
+      "14776",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Control",
+      "3B504",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch Asy - Emergency Warning\nBlack",
+      "13A350",
+      "10 - Console Related Parts; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Heated Seat\nBlack",
+      "14D694",
+      "10 - Console Related Parts; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nBlack",
+      "14A701",
+      "20B - Front Seat Pads/Valances & Heating, Less Temp Control Driver Seat, With Driver 8 Way Pwr.Seat Adjuster, LHD, Driver Seat; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nBlack, \nLess Chrome Ring",
+      "14A701",
+      "20B - Front Seat Pads/Valances & Heating, Less Temp Control Driver Seat, With Driver 8 Way Pwr.Seat Adjuster, LHD, Driver Seat; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nBlack, \nLess Chrome Ring, \nLH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nBlack, \nLess Chrome Ring, \nRH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nBlack, \nLH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nBlack, \nRH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nDark Smoked Truffle",
+      "14A701",
+      "20D - Front Seat Pads/Valances & Heating, Drviver Heated Vented Cooled Seat, Drv Power Seat Adjust With Memory, LHD, Driver Auto Heat/Cool Seat, Driver Seat; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nJava Interior",
+      "14A701",
+      "20D - Front Seat Pads/Valances & Heating, Drviver Heated Vented Cooled Seat, Drv Power Seat Adjust With Memory, LHD, Driver Auto Heat/Cool Seat, Driver Seat; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nJava Interior, \nLH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nJava Interior, \nRH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nLH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch Asy - Power Seat Adjust\nRH",
+      "14A701",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Switch - Accelerator / Brake Adjust\nBlack",
+      "9G604",
+      "05A - Instrument Panel Related Parts, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Switch - Gearshift Selector\nLH",
+      "3F885",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch - Gearshift Selector\nRH",
+      "3F884",
+      "05C - Steering Wheel, Dearborn Plant Build, With Speed Control, Adaptive Speed Control W/CADS III, Dearborn Electrical Vehicle Center; 18/DEC/2023"
+    ],
+    [
+      "Switch Assy - \n3 Terminal",
+      "19D594",
+      "22A - Air Conditioning System, 5.0L Coyote, A/C Refrigerant-R134A; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nLH, \nFRONT",
+      "14529",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nRear, \nRH/LH",
+      "14529",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nRH, \nFRONT",
+      "14529",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Switch Assy - \nSwitch , Power Window , Rear Sliding Glass, \nOverhead Console",
+      "14529",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nAuxiliary, \nFront Overhead Console, \nSwitch Assy",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nBed Lamp, \nSwitch Assy",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nFor Centre Seatbelt, \nFRONT, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear Center, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45GE - Pigtail Wiring Kits, Miscellaneous, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear, \nLH, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSwitch , Door Ajar Warning, \nRH/LH, \nFor Rear Door",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSwitch , Hood Ajar , Anti-theft",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSwitch , Power Tailgate, \nLocated On Tailgate",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSwitch , Power Tailgate, \nLocated On Tailgate, \nFor Swing Gate",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nSwitch , Power Window , Driver",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nSwitch , Seat , \nSwitch , Seat , \nFRONT",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSwitch , Work Surface Status",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nKeyless Door Handle Switch, \nFront Doors, \nRH/LH",
+      "14S411",
+      "45GG - Pigtail Wiring Kits, Miscellaneous, Page C; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nRear, \nRH, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSwitch , Door Lock, \nRH/LH, \nFRONT",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSwitch , Emergency Call",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSwitch , Power Window , Driver",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nTrailer Brake Control Switch Release",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nInstrument Panel, \nMiddle, \nSwitch , Hazard Warning",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nLH Center, \nSwitch Assy, \nLocated In Instrument Panel",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nLH, \nSwitch Assy, \nCenter, \nLocated In Instrument Panel",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nLH, \nSwitch Assy, \nSteering Wheel",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRH, \nSwitch Assy, \nFor Instrument Panel",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRH, \nSwitch Assy, \nSteering Wheel",
+      "14S411",
+      "45AD - Pigtail Wiring Kits, Page B, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRH/LH, \nFRONT, \nTo Seat Belt Buckle Switch",
+      "14S411",
+      "45GG - Pigtail Wiring Kits, Miscellaneous, Page C; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSwitch , Adjustable Pedal",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSwitch , Ignition",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSwitch , Keyless Entry Keypad",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSwitch , Power Window , Passenger",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSwitch , Power Window , Rear Sliding Glass",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nLH, \nSwitch , Door Lock, \nFRONT",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nRear, \nSwitch , Heated Seat",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nSwitch , Mirror",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nSwitch , Parking Brake",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n10 Cavity, \nSwitch , Seat",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nDark Teal, \n8 Cavity, \nSwitch , Power Window , LH , Rear, \nSwitch , Power Window , RH , Rear",
+      "14S411",
+      "45AC - Pigtail Wiring Kits, Page A, Switches; 18/DEC/2023"
+    ],
+    [
+      "Bezel - Ignition Switch\nBlack Denim Overprint",
+      "11584",
+      "05E - Instrument Panel, MULTI FUNCTION DISPLAY - 15, Lower; 14/MAR/2022"
+    ],
+    [
+      "Bezel - Ignition Switch\nBlack Onyx",
+      "11584",
+      "05E - Instrument Panel, MULTI FUNCTION DISPLAY - 15, Lower; 14/MAR/2022"
+    ],
+    [
+      "Bezel - Ignition Switch\nKrypto Gray",
+      "11584",
+      "05E - Instrument Panel, MULTI FUNCTION DISPLAY - 15, Lower; 14/MAR/2022"
+    ],
+    [
+      "Bracket - \nLH, \nDoes Not Have Kick Switch Feature or Kick Switch Wiring",
+      "200L52",
+      "65D - Running Boards/Side Steps, With Power Deployable Running Board, Rng Board - Power Deploy Lvl 2, Rng Board - Power Deploy Level 3; 12/OCT/2020"
+    ],
+    [
+      "Bracket - \nRH, \nDoes Not Have Kick Switch Feature or Kick Switch Wiring",
+      "200L52",
+      "65D - Running Boards/Side Steps, With Power Deployable Running Board, Rng Board - Power Deploy Lvl 2, Rng Board - Power Deploy Level 3; 12/OCT/2020"
+    ],
+    [
+      "Cap - \nFront And Rear Doors, \n14529 Switch, \nPlastic Tip For Door Switch",
+      "14A268",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Cap - \nFront Doors, \n14529 Switch, \nPlastic Tip For Door Switch",
+      "14A268",
+      "10A - Switches, Performance Version, F-150, Body; 12/OCT/2020"
+    ],
+    [
+      "Housing - Switch\nBlack, \nLH",
+      "14527",
+      "40C - Front Door Trim Panels; 18/DEC/2023"
+    ],
+    [
+      "Housing - Switch\nBlack, \nLH",
+      "14528",
+      "40C - Front Door Trim Panels; 18/DEC/2023"
+    ],
+    [
+      "Housing - Switch\nBlack, \nRH",
+      "14527",
+      "40C - Front Door Trim Panels; 18/DEC/2023"
+    ],
+    [
+      "Housing - Switch\nBlack, \nRH",
+      "14528",
+      "40C - Front Door Trim Panels; 18/DEC/2023"
+    ],
+    [
+      "Knob - Switch Operating",
+      "14711",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Knob - Switch Operating\nBlack, \nLess Chrome Ring",
+      "14711",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Knob - Switch Operating\nBlack, \nLess Chrome Ring, \nLH",
+      "14711",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Knob - Switch Operating\nBlack, \nLess Chrome Ring, \nRH",
+      "14711",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ],
+    [
+      "Knob - Switch Operating\nBlack, \nWith Chrome Ring",
+      "14711",
+      "20D - Front Seat Pads/Valances & Heating, Drviver Heated Vented Cooled Seat, Drv Power Seat Adjust With Memory, LHD, Driver Auto Heat/Cool Seat, Driver Seat; 12/OCT/2020"
+    ],
+    [
+      "Knob - Switch Operating\nBlack, \nWith Chrome Ring, \nLH",
+      "14711",
+      "10B - Switches, Seats; 12/OCT/2020"
+    ]
+  ]
+}

@@ -1,0 +1,1926 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Sensor - Air Charge Temperature",
+      "12A697",
+      "10F - Intercooler/Air Ducts and Hoses, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Air Cond. Ambient Air\nLocated In RH Mirror",
+      "12A647",
+      "05 - Heater & Air Conditioning Controls; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Air Cond. Ambient Air\nRH Only",
+      "12A647",
+      "05B - Exterior Rear View Mirror, Less Camera, Telecsp TT Pwr Htd Lighted, Rear View Camera-Fixed, Rear Video Camera And Prep Kit, Trailer Camera; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Air Cond. Ambient Air\nRH Only",
+      "12A647",
+      "05D - Exterior Rear View Mirror, Less Camera, Dual Sail T'Scp TT Mirrors-Pwr/Htd, Rear View Camera-Fixed, Rear Video Camera And Prep Kit, Trailer Camera; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Air Cond. Ambient Air\nRH Only",
+      "12A647",
+      "05E - Exterior Rear View Mirror, Dual Sail T'Scp TT Mirrors-Pwr/Htd, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 05/SEP/2023"
+    ],
+    [
+      "Sensor - Air Cond. Ambient Air\nRH Only",
+      "12A647",
+      "05F - Exterior Rear View Mirror, Telecsp TT Pwr Htd Lighted, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 05/SEP/2023"
+    ],
+    [
+      "Sensor - Engine Coolant Temperature",
+      "12A648",
+      "15AA - Radiator/Coolant Overflow Container, 6.7L 4V V8 T/C Diesel, Chassis, Secondary Cooling System; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Engine Coolant Temperature",
+      "12A648",
+      "15R - Radiator/Coolant Overflow Container, 6.7L 4V V8 T/C Diesel, Pickup, With Low Sulfur Diesel Fuel Content, Secondary Cooling System; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Engine Coolant Temperature",
+      "12A648",
+      "15Y - Radiator/Coolant Overflow Container, 6.7L 4V HPCR V8 T/C DSL 500HP, Secondary Cooling System; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Engine Coolant Temperature",
+      "12A648",
+      "15Z - Radiator/Coolant Overflow Container, 6.7L 4V V8 T/C Diesel, High Sulfur Diesel Fuel Content, Secondary Cooling System; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Engine Coolant Temperature",
+      "12A648",
+      "20F - Thermostat/Housing & Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05 - Heater & Air Conditioning Controls; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05A - Heater/Air Cond.External Components, Less Auxiliary Heater, Manual Air Conditioning; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05B - Heater/Air Cond.External Components, With Supplemental Air Heater, Manual Air Conditioning; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05C - Heater/Air Cond.External Components, Less Auxiliary Heater, Electronic Dual Zone ATC A/C; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05D - Heater/Air Cond.External Components, With Supplemental Air Heater, Electronic Dual Zone ATC A/C; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "10 - Heater/Air Cond.Internal Components; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19E906",
+      "05 - Heater & Air Conditioning Controls; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Nox Trap Temperature",
+      "5E145",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy",
+      "14B357",
+      "10A - Battery Cables and Horn, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy",
+      "14B357",
+      "10B - Battery Cables and Horn, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy",
+      "5L216",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nFRONT, \nCenter",
+      "14B004",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nLess Bracket",
+      "9E731",
+      "05A - Vehicle Modules and Sensors, Engine Compartment; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nLocated At Tail Pipe",
+      "5L216",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRear, \nRH/LH",
+      "14B004",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Air Bag",
+      "14B321",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Air Bag\nRESTRAINT CONTROL MODULE",
+      "14B321",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Cylinder Head Temp",
+      "6G004",
+      "15A - Cylinder Head, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Cylinder Head Temp",
+      "6G004",
+      "15E - Cylinder Head, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension",
+      "3C097",
+      "10A - Air Suspension Controls/Electrics, With Led Projector Headlamps, Less Mass Movement Sensor; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension\nLH",
+      "3C097",
+      "10B - Air Suspension Controls/Electrics, On Board Scale W/Smart Hitch; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension\nRH",
+      "3C097",
+      "10B - Air Suspension Controls/Electrics, On Board Scale W/Smart Hitch; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Amplifier",
+      "13A018",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Blind Spot\nRH/LH",
+      "14C689",
+      "05 - Parking Distance Control; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Blind Spot\nRH/LH",
+      "14C689",
+      "05C - Rear Lamps, Tail lamps - LED Rear; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Body Weight - Airbag",
+      "14B422",
+      "20E - Front Seat Pads/Valances & Heating, With Pass. 2 Way Manual Seat Adjust, Passenger Seat; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Body Weight - Airbag",
+      "14B422",
+      "20F - Front Seat Pads/Valances & Heating, With Pass 8 Way Power Seat Adjuster, Passenger Seat; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Body Weight - Airbag",
+      "14B422",
+      "20G - Front Seat Pads/Valances & Heating, Power 8-Way Pass Seat Adj Level 2, Passenger Seat; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nLH",
+      "2C205",
+      "05A - Anti-Lock Braking System, With Twin I Beam Suspension; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nRH",
+      "2C204",
+      "05A - Anti-Lock Braking System, With Twin I Beam Suspension; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nRH/LH, \nFRONT",
+      "2C204",
+      "05B - Anti-Lock Braking System, M/Beam With Extended Axle (Fatboy), H/D Front End Suspension, With Monobeam Suspension - Narrow, With Monobeam Suspension - Wide; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Vacuum",
+      "2C444",
+      "05A - Brake Booster, 7.3L 2V DEVCT NA PFI V8 Gas, Power 4-Wheel Disc Vacuum Boost, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Vacuum",
+      "2C444",
+      "05B - Brake Booster, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Power 4-Wheel Disc Vacuum Boost; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Fuel Injector TM",
+      "9F838",
+      "05F - Fuel Injectors and Pipes, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Manf Absolute Press",
+      "9F479",
+      "20H - Intake Manifold, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Mass Air Flow",
+      "12B579",
+      "05A - Air Cleaner, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Mass Air Flow",
+      "12B579",
+      "05F - Air Cleaner, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Mass Air Flow",
+      "12B579",
+      "05F - Air Cleaner, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Mass Air Flow",
+      "12B579",
+      "05G - Air Cleaner, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Pressure",
+      "9J460",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Pressure",
+      "9J460",
+      "15F - Cylinder Head Cover, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Pressure",
+      "9J460",
+      "25R - Turbocharger, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Pressure",
+      "9J460",
+      "25S - Turbocharger, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Detent",
+      "7H557",
+      "20A - Transmission Modules and Sensors, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Detent",
+      "7H557",
+      "20C - Transmission Modules and Sensors, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Detent",
+      "7H557",
+      "55A - Transmission Control Mechanisms, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Detent",
+      "7H557",
+      "55C - Transmission Control Mechanisms, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Washer Fluid Level Sensor",
+      "17B649",
+      "10 - Windshield Washer; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05F - Crankshaft/Pistons and Bearings, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "10A - Cylinder Block and Plugs, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "10E - Cylinder Block and Plugs, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Engine Knock",
+      "12A699",
+      "10A - Cylinder Block and Plugs, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Engine Knock",
+      "12A699",
+      "10E - Cylinder Block and Plugs, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Injector Pressure",
+      "9G756",
+      "10AG - Fuel Lines, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Engine; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Temperature",
+      "9T321",
+      "10AF - Fuel Lines, 6.7L 4V V8 T/C Diesel, With Aft-Of-Axle Fuel Tank, Body; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Temperature",
+      "9T321",
+      "10AH - Fuel Lines, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 160\" Wheelbase, 164\" Wheelbase, With Mid-Ship Fuel Tank, Body; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Temperature",
+      "9T321",
+      "10AJ - Fuel Lines, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 142\"/3607MM Wheelbase, 148\" Wheelbase, With Mid-Ship Fuel Tank, Body; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Temperature",
+      "9T321",
+      "10AK - Fuel Lines, 6.7L 4V V8 T/C Diesel, Narrow Frame (Chassis Cab), With Mid-Ship Fuel Tank, Body; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Temperature",
+      "9T321",
+      "10AL - Fuel Lines, 6.7L 4V V8 T/C Diesel, With Aft-Of-Axle/Mid-Ship Fuel Tank, Body; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Fuel Temperature",
+      "9T321",
+      "10AM - Fuel Lines, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 175.5 / 4457.7MM Wheelbase, With Mid-Ship Fuel Tank, Body; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Nox Trap Temperature",
+      "9D378",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Overdrive Drum Speed",
+      "7M183",
+      "20A - Transmission Modules and Sensors, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Overdrive Drum Speed",
+      "7M183",
+      "20C - Transmission Modules and Sensors, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Parking Aid System\nPrimed, \n'L' Shaped, \nPaint To Match",
+      "15K859",
+      "05 - Parking Distance Control; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Parking Aid System\nPrimed, \nPaint To Match",
+      "15K859",
+      "05 - Parking Distance Control; 03/JAN/2023"
+    ],
+    [
+      "Sensor - Side Air Bag\nRH/LH",
+      "14B345",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy",
+      "9G444",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nLH",
+      "9F472",
+      "05A - Exhaust System, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nLH",
+      "9F472",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nLH",
+      "9F472",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRH",
+      "9F472",
+      "05A - Exhaust System, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRH",
+      "9F472",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRH",
+      "9F472",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRH/LH",
+      "9F472",
+      "05H - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRH/LH",
+      "9F472",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - \nRH/LH",
+      "9G444",
+      "05A - Exhaust System, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Engine Speed",
+      "7H103",
+      "20A - Transmission Modules and Sensors, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Engine Speed",
+      "7H103",
+      "20C - Transmission Modules and Sensors, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Speed",
+      "7M101",
+      "20A - Transmission Modules and Sensors, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Assy - Speed",
+      "7M101",
+      "20C - Transmission Modules and Sensors, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy",
+      "12B591",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy",
+      "12B591",
+      "20L - Exhaust Gas Recirculation, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy",
+      "12B591",
+      "25R - Turbocharger, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy",
+      "12B591",
+      "25S - Turbocharger, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy",
+      "402B56",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy",
+      "9G444",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - \nRH/LH",
+      "9G444",
+      "05H - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Body Weight - Airbag",
+      "600F67",
+      "15G - Front Seat Base, Power 8-Way Pass Seat Adj Level 2, Passenger Seat; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nServiced In 15K857, \nServiced In 10B858",
+      "2C190",
+      "05A - Anti-Lock Braking System, With Twin I Beam Suspension; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nServiced In 15K857, \nServiced In 10B858",
+      "2C190",
+      "05B - Anti-Lock Braking System, M/Beam With Extended Axle (Fatboy), H/D Front End Suspension, With Monobeam Suspension - Narrow, With Monobeam Suspension - Wide; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Steering Rotation",
+      "3F818",
+      "05 - Steering Wheel; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Oil Temp",
+      "7H141",
+      "20A - Transmission Modules and Sensors, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Oil Temp",
+      "7H141",
+      "20C - Transmission Modules and Sensors, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Oil Temp",
+      "7H141",
+      "50A - Valve Body - Main Control & Servo's, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Transmission Oil Temp",
+      "7H141",
+      "50C - Valve Body - Main Control & Servo's, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Sensor Asy - Yaw Rate",
+      "14B296",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Sensory Asy - Intrusion",
+      "15K609",
+      "20A - Console - Overhead, Less Sun Roof, Less Spare Accessory Switches; 03/JAN/2023"
+    ],
+    [
+      "Sensory Asy - Intrusion",
+      "15K609",
+      "20B - Console - Overhead, Less Sun Roof, Spare Accessory Switches - 6; 03/JAN/2023"
+    ],
+    [
+      "Sensory Asy - Intrusion",
+      "15K609",
+      "20C - Console - Overhead, Less Spare Accessory Switches, VISTA FRT PWR TILT/SLD/FIXD RR; 03/JAN/2023"
+    ],
+    [
+      "Sensory Asy - Intrusion",
+      "15K609",
+      "20D - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, Spare Accessory Switches - 6; 03/JAN/2023"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "10A - Timing Gear Covers, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "10E - Timing Gear Covers, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "10F - Timing Gear Covers, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \n\"B And C\" Pillar, \nSensor , Side Impact, \nRH/LH",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nBattery Monitoring Sensor",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nFront Doors, \nRH/LH, \nSensor , Front Impact",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nFRONT, \nPassenger Seat, \nSensor , Presence Detector",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear, \nLH, \nSensor , Wheel Speed",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear, \nRH, \nSensor , Wheel Speed",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRH/LH, \nSensor , Wheel Speed, \nFRONT",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Coolant Temperature",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Cylinder Head Temperature",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Evaporator Discharge Temperature",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Exhaust Gas Temperature",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Floor Discharge Air Temperature, \nRH/LH",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Front Impact",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Knock",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Washer Fluid Level",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor Turbocharger Boost Pressure/Charge Air Cooling Temperature",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor, \nTurbocharger Outlet",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor, \nWith Tailgate Step",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nTemperature Sensor, \nCharge Air Cooler",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nRH, \nSensor , Seat Height , Front",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nRH/LH, \nInner And Outer, \nTo Park Aid Sensors, \nLocated On Tailgate",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Brake Booster Vacuum",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Cam Shaft Position",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Crankshaft Position , CPS",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Exhaust Gas Pressure",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Exhaust Gas Temperature",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Front Park Aid, \nRH/LH, \nInner And Outer",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Fuel Rail Pressure",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Fuel Tank Pressure Transducer",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Manifold Absolute Pressure",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Oil Pressure",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Particulate Filter Pressure",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Rain",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Register Discharge Air Temperature, \nRH/LH",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Reverse Park Aide , \nRH/LH, \nInner And Outer",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Water In Fuel",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nVehicle Height Sensor, \nFront And Rear, \nRH/LH",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nAmbient Light Sensor",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Brake Pedal Position",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Fuel Pressure And Temperature",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Heated Exhaust Gas Oxygen",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Intake Air Temperature, \nSensor , Mass Air Flow",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Sunload",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Transmission Range",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n5 Cavity, \nHeater Asy, \nReductant Tank, \nSensor , Reductant Agent Ultrasonic",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n5 Cavity, \nNOX , Sensor",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n5 Cavity, \nSensor , Heated Exhaust Gas Oxygen",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nIn-Vehicle Temperature And Humidity, \nSensor",
+      "14S411",
+      "45CB - Pigtail Wiring Kits, Sensors, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSensor , Acceleration Pedal Position",
+      "14S411",
+      "45CA - Pigtail Wiring Kits, Sensors, Page A; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\n14405 To Suspension Leveling Sensor",
+      "14A412",
+      "16B - Wiring - Body And Roof Console, Pickup, Crew Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\n14407 To Suspension Leveling Sensor",
+      "14A412",
+      "16A - Wiring - Body And Roof Console, Pickup, Regular Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\n14407 To Suspension Leveling Sensor",
+      "14A412",
+      "16B - Wiring - Body And Roof Console, Pickup, Crew Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\n14407 To Suspension Leveling Sensor",
+      "14A412",
+      "16C - Wiring - Body And Roof Console, Pickup, Super Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\nRH/LH, \n14405 To Suspension Leveling Sensor",
+      "14A412",
+      "16A - Wiring - Body And Roof Console, Pickup, Regular Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\nRH/LH, \n14405 To Suspension Leveling Sensor",
+      "14A412",
+      "16B - Wiring - Body And Roof Console, Pickup, Crew Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Jumper\nRH/LH, \n14405 To Suspension Leveling Sensor",
+      "14A412",
+      "16C - Wiring - Body And Roof Console, Pickup, Super Cab; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Sensor Mounting\nBracket",
+      "14C022",
+      "05A - Vehicle Modules and Sensors, Engine Compartment; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Sensor Mounting\nBracket",
+      "14C022",
+      "05G - Radiator Grille and Front Bumper, Front Bumper - Steel Chromed; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Sensor Mounting\nBracket",
+      "14C022",
+      "05H - Radiator Grille and Front Bumper, Front Bumper Painted In Bodycolour; 03/JAN/2023"
+    ],
+    [
+      "Control - \nVolume Control Sensor, \nBolts Only Serviced In H/P Pump Assembly",
+      "9J307",
+      "12F - Fuel Injection Pump - Diesel, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Kit - \"O\" Ring\nIncludes Fuel Filter Outlet Tube Assembly, \nIncludes Low Pressure Fuel Line, \nIncludes High Pressure Fuel Pump, \nIncludes High Pressure Fuel Rail , \nIncludes High Pressure Fuel Rail , \nIncludes High Pressure Fuel Lines, \nIncludes Fuel Pressure Temp Sensor , \nIncludes Fuel Injector Kit , \nIncludes Fuel Injector Kit , \nIncludes Fuel Injector Return Hose",
+      "9B246",
+      "10AG - Fuel Lines, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Engine; 03/JAN/2023"
+    ],
+    [
+      "Kit - TPMS Sensor\nReplacing Part May Look Different Than Original, But Will Fit And Function Just Like The Old Part",
+      "1A189",
+      "20 - Tire Pressure Monitor System; 03/JAN/2023"
+    ],
+    [
+      "Kit - TPMS Sensor\nReplacing Part May Look Different Than Original, But Will Fit And Function Just Like The Old Part, \nRear",
+      "1A189",
+      "20 - Tire Pressure Monitor System; 03/JAN/2023"
+    ],
+    [
+      "Processor - Windshield Rain Sensor",
+      "17D547",
+      "05 - Windshield/Inside Rear View Mirror; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "14G647",
+      "05A - Camera Equipment, Less Camera, Rear View Camera-Fixed; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "14G647",
+      "05B - Camera Equipment, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "14G647",
+      "05C - Camera Equipment, Rear Video Camera And Prep Kit; 03/JAN/2023"
+    ],
+    [
+      "Nox Module",
+      "5L248",
+      "07D - Exhaust Modules And Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "12A650",
+      "05A - Engine Modules and Sensors, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "12A650",
+      "05E - Engine Modules and Sensors, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "12A650",
+      "05F - Engine Modules and Sensors, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "13C788",
+      "05B - Headlamps and Front Flasher Lamps, LED Reflector Lamp; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "14G372",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Module - \nGateway Module",
+      "14G490",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Module - \nNorth American Dealers Order Using The Ford Online 1878 / FESG Website",
+      "14G371",
+      "05A - Audio Equipment - Original Fit, Multi Function Display - 8\"; 03/JAN/2023"
+    ],
+    [
+      "Module - \nNorth American Dealers Order Using The Ford Online 1878 / FESG Website",
+      "14G371",
+      "05B - Audio Equipment - Original Fit, Multi Function Display - 12\"; 03/JAN/2023"
+    ],
+    [
+      "Module - \nRH/LH",
+      "13C788",
+      "05C - Headlamps and Front Flasher Lamps, With Led Projector Headlamps, LED Projector Headlamp #2; 03/JAN/2023"
+    ],
+    [
+      "Module - Air Bag",
+      "044A74",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Module - Air Bag\nBlack Onyx",
+      "043B13",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Module - Air Bag\nLH",
+      "611D11",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "Module - Air Bag\nRH",
+      "611D10",
+      "15 - Airbag System; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05A - Transfer Drive Case, LHD 4WD (Part Time Drive), 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05B - Transfer Drive Case, 169\" Wheelbase, 193 Wheelbase, 205 Wheelbase, LHD 4WD (Part Time Drive), 600 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05C - Transfer Drive Case, 145\"/3675MM Wheelbase, LHD 4WD (Part Time Drive), 600 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05E - Transfer Drive Case, 145\"/3675MM Wheelbase, LHD 4WD (Part Time Drive), Ford 450 Series, Ford 550 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05F - Transfer Drive Case, 169\" Wheelbase, 193 Wheelbase, 205 Wheelbase, 192 Wheelbase, 203 Wheelbase, 175.5 / 4457.7MM Wheelbase, 142\"/3607MM Wheelbase, 168\"/4267MM Wheelbase, 179\" Wheelbase, LHD 4WD (Part Time Drive), Ford 450 Series, Ford 550 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05G - Transfer Drive Case, 160\" Wheelbase, 145\"/3675MM Wheelbase, 148\" Wheelbase, LHD 4WD (Part Time Drive), Ford 250 Series, Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05H - Transfer Drive Case, 169\" Wheelbase, 175.5 / 4457.7MM Wheelbase, 168\"/4267MM Wheelbase, 179\" Wheelbase, LHD 4WD (Part Time Drive), Ford 250 Series, Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05J - Transfer Drive Case, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 164\" Wheelbase, With Single Rear Wheels, 3.31 Ratio, LHD 4WD (Part Time Drive), Ford 250 Series, Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05K - Transfer Drive Case, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 164\" Wheelbase, With Single Rear Wheels, 3.55 Ratio, LHD 4WD (Part Time Drive), Ford 250 Series, Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05L - Transfer Drive Case, 7.3L 2V DEVCT NA PFI V8 Gas, 164\" Wheelbase, With Single Rear Wheels, LHD 4WD (Part Time Drive), Ford 250 Series, Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05M - Transfer Drive Case, 7.3L 2V DEVCT NA PFI V8 Gas, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 164\" Wheelbase, With Double Rear Wheels, LHD 4WD (Part Time Drive), Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05N - Transfer Drive Case, 7.3L 2V DEVCT NA PFI V8 Gas, 142\"/3607MM Wheelbase, With Single Rear Wheels, LHD 4WD (Part Time Drive), Ford 250 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05P - Transfer Drive Case, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 142\"/3607MM Wheelbase, With Single Rear Wheels, LHD 4WD (Part Time Drive), Ford 250 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05R - Transfer Drive Case, 7.3L 2V DEVCT NA PFI V8 Gas, 142\"/3607MM Wheelbase, LHD 4WD (Part Time Drive), Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05S - Transfer Drive Case, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 142\"/3607MM Wheelbase, With Double Rear Wheels, LHD 4WD (Part Time Drive), Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "MODULE - DRIVELINE CONTROL",
+      "7P238",
+      "05T - Transfer Drive Case, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 142\"/3607MM Wheelbase, With Single Rear Wheels, LHD 4WD (Part Time Drive), Ford 350 Series, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Module - Parking Aid System",
+      "15K866",
+      "05 - Parking Distance Control; 03/JAN/2023"
+    ],
+    [
+      "Module - Seat Heater Control",
+      "14C724",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 03/JAN/2023"
+    ],
+    [
+      "Module - Seat Memory",
+      "14C708",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 03/JAN/2023"
+    ],
+    [
+      "Module - Smart Data Link\nSmart Data Link",
+      "14F642",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Module - Trailer Brake",
+      "19H332",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Module - Vehicle Emergency Message",
+      "19G468",
+      "05B - Vehicle Modules and Sensors, Instrument Panel, Console; 03/JAN/2023"
+    ],
+    [
+      "Module - Wireless Charging",
+      "19J235",
+      "05 - Cellular Phone Installation; 03/JAN/2023"
+    ],
+    [
+      "Module Assy - ECU",
+      "12B565",
+      "20C - Transmission Modules and Sensors, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Module Assy - ECU",
+      "12B565",
+      "55C - Transmission Control Mechanisms, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "19G367",
+      "20XA - Remote Starting Kit, Scalable, Accessory, One Way; 03/JAN/2023"
+    ],
+    [
+      "Module",
+      "19G367",
+      "20XB - Remote Starting Kit, Scalable, Accessory, Bi-Directional Remote Start; 03/JAN/2023"
+    ],
+    [
+      "Module - Lighting Control",
+      "13C788",
+      "10XB - Emergency and Safety Equipment, Strobe Lamp Kit, Accessory; 03/JAN/2023"
+    ],
+    [
+      "Module - Trailer Brake",
+      "19H332",
+      "05XB - Tow Bar, TPMS Only Trailer Kit, Accessory, Trailer Tow; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted on loom 14401, \nJumper , From 14A005 To SYNC Module, \nCoaxial Cable",
+      "14F662",
+      "05A - Camera Equipment, Less Camera, Rear View Camera-Fixed; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted on loom 14401, \nJumper , From 14A005 To SYNC Module, \nCoaxial Cable",
+      "14F662",
+      "05B - Camera Equipment, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted on loom 14401, \nJumper , From 14A005 To SYNC Module, \nCoaxial Cable",
+      "14F662",
+      "05C - Camera Equipment, Rear Video Camera And Prep Kit; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted On Loom 14A005, \nCoaxial Cable, \nJumper , From Advanced Driver Assistance System Module To 14401, \nJumper , From Advanced Driver Assistance System Module To 15A404",
+      "14F662",
+      "05A - Camera Equipment, Less Camera, Rear View Camera-Fixed; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted On Loom 14A005, \nCoaxial Cable, \nJumper , From Advanced Driver Assistance System Module To 14401, \nJumper , From Advanced Driver Assistance System Module To 15A404",
+      "14F662",
+      "05B - Camera Equipment, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted On Loom 14A005, \nCoaxial Cable, \nJumper , From Advanced Driver Assistance System Module To 14401, \nJumper , From Advanced Driver Assistance System Module To 15A404",
+      "14F662",
+      "05C - Camera Equipment, Rear Video Camera And Prep Kit; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFitted On Loom 14A005, \nJumper , From Advanced Driver Assistance System Module To 12A581, \nJumper , From Advanced Driver Assistance System Module To 14405, \nJumper , From Advanced Driver Assistance System Module To 14631, \nJumper , From Advanced Driver Assistance System Module To 14630",
+      "14F662",
+      "05B - Camera Equipment, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 03/JAN/2023"
+    ],
+    [
+      "Cable Assy - \nFor Tailgate, \nCoaxial Cable, \nFitted On Loom 14A412, \nJumper , To Tailgate Camera, \nJumper , To Tailgate Park Aid Module, \nJumper , From 14407 To 14A412",
+      "14F662",
+      "05B - Camera Equipment, Front/Side/Rear View Camera, Front/Side/Rear View Camera #2; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n1 CAVITY, \nModule , Glow Plug",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n10 Cavity, \nModule , Audio Control",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n10 Cavity, \nModule , Sunshade",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nModule , All Wheel Drive",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nModule , Heated Seat, \nRear Seats",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nModule , Trailer Brake Control",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nModule, \nDriver Seat",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nTrailer Tow Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n16 Cavity, \nModule , Multi , Contour Control",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nModule , Steering Column Tilt/Tele And Pedal Adjust",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nBody Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nDigital Sound Processing Unit, \nModule",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nHeadlamp Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nImage Processing Module A",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nImage Processing Module A",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n24 Cavity, \nBody Control Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n24 Cavity, \nImage Processing Module A",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nAir Conditioning And Heater Controls, \nModule",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nBody Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nGateway Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n30 Cavity, \nModule , Restraints Control",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n30 Cavity, \nModule, \nAir Conditioning And Heater Controls",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n32 Cavity, \nGlow Plug And Dosage Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n32 Cavity, \nModule, \nGlow Plug",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nFor Seat Cushion, \nRH/LH, \nFRONT, \nSeat Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nModule , Transfer Case Shift Control",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nModule Particulate Matter",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nModule Telematic Control Unit",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n40 Cavity, \nBody Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n46 Cavity, \nModule Brake",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nModule , Heated Seat, \nRear Seats",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nModule, \nBlower Motor",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRemote Transceiver Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Fuel Pump Control",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Steering Column Tilt/Tele And Pedal Adjust",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Wireless Charger",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule, \nTrailer Tow, \nRH/LH, \nFor Blind Spot Monitoring System",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nSpeed Control, \nModule",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n10 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n24 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n24 Cavity, \nRH/LH, \nDoor Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n32 Cavity, \nModule , Audio Control",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n52 Cavity, \nBody Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n10 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n22 Cavity, \nBody Control Module",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n24 Cavity, \nRH/LH, \nDoor Module",
+      "14S411",
+      "45FA - Pigtail Wiring Kits, Modules And Controllers, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nGrey, \n32 Cavity, \nModule , Front Controls Interface",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nModule , Upfitter Interface",
+      "14S411",
+      "45FB - Pigtail Wiring Kits, Modules And Controllers, Page B; 03/JAN/2023"
+    ],
+    [
+      "Instrument Cluster - \nNorth American Dealers Order Using The Ford Online 1878 / FESG Website, \nModule",
+      "10849",
+      "05B - Instrument Cluster, Customer Info Display-Pack 3; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nPump , Diesel Vapor Exhaust AFT",
+      "14S411",
+      "45DA - Pigtail Wiring Kits, Pumps And Motors; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nValve Assembly, \nExhaust Gas Recirculation",
+      "14S411",
+      "45GB - Pigtail Wiring Kits, Miscellaneous, Page B; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25A - Exhaust Manifold, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25E - Exhaust Manifold, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25G - Exhaust Manifold, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nLH",
+      "9431",
+      "25H - Exhaust Manifold, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25A - Exhaust Manifold, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25E - Exhaust Manifold, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25G - Exhaust Manifold, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Manifold Assy - Exhaust\nRH",
+      "9430",
+      "25H - Exhaust Manifold, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5201",
+      "05A - Exhaust System, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5201",
+      "05AG - Exhaust System, 6.7L 4V V8 T/C Diesel, High Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5201",
+      "05H - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5201",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05AG - Exhaust System, 6.7L 4V V8 T/C Diesel, High Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05A - Exhaust System, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AA - Exhaust System, 6.7L 4V V8 T/C Diesel, 145\"/3675MM Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AB - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 160\" Wheelbase, 148\" Wheelbase, 164\" Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AC - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 175.5 / 4457.7MM Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AD - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 142\"/3607MM Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AE - Exhaust System, 6.7L 4V V8 T/C Diesel, 169\" Wheelbase, 193 Wheelbase, 205 Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AF - Exhaust System, 6.7L 4V V8 T/C Diesel, 192 Wheelbase, 203 Wheelbase, 168\"/4267MM Wheelbase, 179\" Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05AG - Exhaust System, 6.7L 4V V8 T/C Diesel, High Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05H - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Exhaust Pipe Mounting",
+      "5K222",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Extension - Exhaust Pipe",
+      "5202",
+      "05H - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Extension - Exhaust Pipe",
+      "5202",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust",
+      "5246",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust",
+      "6N646",
+      "05AG - Exhaust System, 6.7L 4V V8 T/C Diesel, High Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust",
+      "6N646",
+      "25R - Turbocharger, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust",
+      "6N646",
+      "25S - Turbocharger, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nLH",
+      "9G437",
+      "25G - Exhaust Manifold, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nLH",
+      "9G437",
+      "25H - Exhaust Manifold, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nLH",
+      "9G437",
+      "25R - Turbocharger, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nLH",
+      "9G437",
+      "25S - Turbocharger, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nRH",
+      "9G437",
+      "25G - Exhaust Manifold, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nRH",
+      "9G437",
+      "25H - Exhaust Manifold, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nRH",
+      "9G437",
+      "25R - Turbocharger, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust\nRH",
+      "9G437",
+      "25S - Turbocharger, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05A - Exhaust System, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05AB - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 160\" Wheelbase, 148\" Wheelbase, 164\" Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05AC - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 175.5 / 4457.7MM Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05AE - Exhaust System, 6.7L 4V V8 T/C Diesel, 169\" Wheelbase, 193 Wheelbase, 205 Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05AF - Exhaust System, 6.7L 4V V8 T/C Diesel, 192 Wheelbase, 203 Wheelbase, 168\"/4267MM Wheelbase, 179\" Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05H - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Trans 10R140; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05J - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Chassis; 03/JAN/2023"
+    ],
+    [
+      "Pipe - Exhaust - Front",
+      "5A212",
+      "05K - Exhaust System, 7.3L 2V DEVCT NA PFI V8 Gas, Pickup, 10 Speed Auto Transmission 10R100; 03/JAN/2023"
+    ],
+    [
+      "Shield - Exhaust Manifold Heat\nLH",
+      "9Y427",
+      "25A - Exhaust Manifold, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Shield - Exhaust Manifold Heat\nLH",
+      "9Y427",
+      "25E - Exhaust Manifold, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Shield - Exhaust Manifold Heat\nLH",
+      "9Y427",
+      "25G - Exhaust Manifold, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Shield - Exhaust Manifold Heat\nLH",
+      "9Y427",
+      "25H - Exhaust Manifold, 6.7L 4V V8 T/C Diesel; 03/JAN/2023"
+    ],
+    [
+      "Spring - Valve\nExhaust",
+      "6513",
+      "15A - Cylinder Head, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Spring - Valve\nExhaust",
+      "6513",
+      "15E - Cylinder Head, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Tube - EGR Valve to Exhaust Manifld",
+      "9E469",
+      "20L - Exhaust Gas Recirculation, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Tube - EGR Valve to Exhaust Manifld\nEGR Valve To Intake Manifold",
+      "9E470",
+      "20L - Exhaust Gas Recirculation, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Valve - Exhaust",
+      "6505",
+      "15A - Cylinder Head, 6.8L Gas V8 16V; 03/JAN/2023"
+    ],
+    [
+      "Valve - Exhaust",
+      "6505",
+      "15E - Cylinder Head, 7.3L 2V DEVCT NA PFI V8 Gas; 03/JAN/2023"
+    ],
+    [
+      "Valve - Exhaust",
+      "6505",
+      "15F - Cylinder Head, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Valve - Exhaust Gas Recirculation",
+      "9D475",
+      "20L - Exhaust Gas Recirculation, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "05AA - Exhaust System, 6.7L 4V V8 T/C Diesel, 145\"/3675MM Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "05AB - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 160\" Wheelbase, 148\" Wheelbase, 164\" Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "05AC - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 175.5 / 4457.7MM Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "05AD - Exhaust System, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, 142\"/3607MM Wheelbase, Pickup, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "05AE - Exhaust System, 6.7L 4V V8 T/C Diesel, 169\" Wheelbase, 193 Wheelbase, 205 Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "05AF - Exhaust System, 6.7L 4V V8 T/C Diesel, 192 Wheelbase, 203 Wheelbase, 168\"/4267MM Wheelbase, 179\" Wheelbase, Chassis, With Low Sulfur Diesel Fuel Content; 03/JAN/2023"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Injector Assy",
+      "5J281",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pressure Line",
+      "5J249",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pressure Line",
+      "5J249",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pressure Line",
+      "5J249",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pressure Line - \n-EXTENDER",
+      "5J249",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pressure Line - \n-EXTENDER",
+      "5J249",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Tank Urea",
+      "5J228",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Tank Urea",
+      "5J228",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Tank Urea",
+      "5J228",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pump Asy - \nPump , Urea",
+      "5L227",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pump Asy - \nPump , Urea",
+      "5L227",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Pump Asy - \nPump , Urea",
+      "5L227",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Tank Filler Hose",
+      "5J232",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Tank Filler Hose",
+      "5J232",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Reductant Tank Filler Hose",
+      "5J232",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nEvaporative Emission Vapor Blocking Valve",
+      "14S411",
+      "45GA - Pigtail Wiring Kits, Miscellaneous, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nInjector , Reductant",
+      "14S411",
+      "45GA - Pigtail Wiring Kits, Miscellaneous, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nReductant Pressure Line Heater",
+      "14S411",
+      "45GA - Pigtail Wiring Kits, Miscellaneous, Page A; 03/JAN/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n7 Cavity, \nPump , Reductant",
+      "14S411",
+      "45DA - Pigtail Wiring Kits, Pumps And Motors; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Fuel Sender\nJumper , UREA Tank Relocation",
+      "14A655",
+      "16A - Wiring - Body And Roof Console, Pickup, Regular Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Fuel Sender\nJumper , UREA Tank Relocation",
+      "14A655",
+      "16B - Wiring - Body And Roof Console, Pickup, Crew Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Fuel Sender\nJumper , UREA Tank Relocation",
+      "14A655",
+      "16C - Wiring - Body And Roof Console, Pickup, Super Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Fuel Sender\nJumper , UREA Tank Relocation",
+      "14A655",
+      "16D - Wiring - Body And Roof Console, Chassis, Regular Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Fuel Sender\nJumper , UREA Tank Relocation",
+      "14A655",
+      "16E - Wiring - Body And Roof Console, Chassis, Crew Cab; 03/JAN/2023"
+    ],
+    [
+      "Wire Assy - Fuel Sender\nJumper , UREA Tank Relocation",
+      "14A655",
+      "16F - Wiring - Body And Roof Console, Chassis, Super Cab; 03/JAN/2023"
+    ],
+    [
+      "Bracket - Reductant Tank",
+      "5L212",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Bracket - Reductant Tank",
+      "5L212",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Cap - Reductant Filler",
+      "5K204",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Cap - Reductant Filler",
+      "5K204",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Cap - Reductant Filler",
+      "5K204",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Expander Assy - Reductant Filler",
+      "5K289",
+      "20AA - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Pickup, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Expander Assy - Reductant Filler",
+      "5K289",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Strap - Reductant Tank",
+      "5J231",
+      "20AB - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Aft-Of-Axle Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ],
+    [
+      "Strap - Reductant Tank",
+      "5J231",
+      "20AC - Urea (DEF) Tanks And Related Parts, 6.7L 4V V8 T/C Diesel, 6.7L 4V HPCR V8 T/C DSL 500HP, Chassis, With Mid-Ship Fuel Tank, With Aft-Of-Axle/Mid-Ship Fuel Tank, With Low Sulfur Diesel Fuel Content; 08/JAN/2024"
+    ]
+  ]
+}

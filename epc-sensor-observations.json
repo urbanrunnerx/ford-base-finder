@@ -1,0 +1,516 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Sensor - Air Charge Temperature",
+      "12A697",
+      "05A - Air Cleaner, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor - Air Cond. Ambient Air\nLocated In Side View Mirror, \nRH, \nOutside Air Temperature Sensor",
+      "12A647",
+      "05A - Exterior Rear View Mirror, Manual Dual Mirror-Manual Fold Back, Dual Power Adjust/Heated/Blind Spot, Dual Power Adjustable Mirrs W/Blis; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Engine Coolant Temperature",
+      "12A648",
+      "10C - Cylinder Block and Plugs, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19C734",
+      "05A - Heater & Air Conditioning Controls, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Heater Temperature Control",
+      "19E906",
+      "05A - Heater & Air Conditioning Controls, Manual Air Conditioning; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Oil Level\nHas O Ring Seal At Top Of Threads",
+      "6C624",
+      "15D - Oil Pan/Oil Level Indicator, 5.0L Coyote; 12/OCT/2020"
+    ],
+    [
+      "Sensor And Bracket Assy - \nSensor",
+      "16B572",
+      "10K - Front Seat Back, With Split Bench Front Seat, MOBILE OFFICE PACK, 20% Seat; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy",
+      "14B357",
+      "05B - Battery and Mountings, 12 VOLT, Rear Mount; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy",
+      "5L200",
+      "07D - Exhaust Modules And Sensors, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Beijing 6 Emissions; 14/MAR/2022"
+    ],
+    [
+      "Sensor Assy",
+      "9E731",
+      "05A - Vehicle Modules and Sensors, Engine Compartment; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy - \nLess Bracket",
+      "9E731",
+      "05A - Vehicle Modules and Sensors, Engine Compartment; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy - \nRH/LH, \nFRONT",
+      "14B004",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Sensor Assy - \nRH/LH, \nFront / Rear",
+      "14B004",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Sensor Assy - Air Bag",
+      "14B321",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Sensor Assy - Cylinder Head Temp",
+      "6G004",
+      "15A - Cylinder Head, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension",
+      "3C097",
+      "10C - Air Suspension Controls/Electrics, BEV Version; 14/MAR/2022"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension\nLH",
+      "3C097",
+      "10A - Air Suspension Controls/Electrics, F-150; 22/JUL/2021"
+    ],
+    [
+      "Sensor Asy - Air Bag Suspension\nRH",
+      "3C097",
+      "10A - Air Suspension Controls/Electrics, F-150; 22/JUL/2021"
+    ],
+    [
+      "Sensor Asy - Amplifier",
+      "13A018",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Blind Spot\nRH/LH",
+      "14C689",
+      "05B - Rear Lamps, Tail lamps - Level 2; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock",
+      "2C204",
+      "05 - Anti-Lock Braking System; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Brake Anti Lock\nServiced In 15K857",
+      "2C190",
+      "05 - Anti-Lock Braking System; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Manf Absolute Press",
+      "9F479",
+      "10C - Intercooler/Air Ducts and Hoses, 2.7L DOHC 4V DI GT V6 GAS/FFV; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Pressure",
+      "9J460",
+      "15A - Cylinder Head Cover, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor Asy - Transmission Detent",
+      "7H557",
+      "20H - Transmission Modules and Sensors, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Washer Fluid Level Sensor",
+      "17B649",
+      "10A - Windshield Washer, Performance Version, F-150; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Crankshaft Position - CPS",
+      "6C315",
+      "05A - Crankshaft/Pistons and Bearings, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor - Engine Knock",
+      "12A699",
+      "10A - Cylinder Block and Plugs, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor - Fuel Injector Pressure",
+      "9F972",
+      "05B - Fuel Injectors and Pipes, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Sensor - Fuel Injector Pressure",
+      "9G756",
+      "05A - Fuel Injectors and Pipes, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor - Overdrive Drum Speed",
+      "7M183",
+      "20G - Transmission Modules and Sensors, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Sensor - Parking Aid System\nPrimed, \nPaint To Match",
+      "15K859",
+      "05D - Parking Distance Control, Dual Exhaust, With Rear Parking Aid, XL #1 Series, XL, XLT Series, Lariat Series, King Ranch Series, Platinium Series, STX Series, Tremor Series, F-150, Dual Exhaust System #2, Dual Exhaust System #3, Dual Exhaust System #4; 18/DEC/2023"
+    ],
+    [
+      "Sensor - Seat Position",
+      "14B416",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Sensor - Side Air Bag\nRH/LH",
+      "14B345",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Sensor Assy",
+      "9F472",
+      "05B - Exhaust System, 3.3L Duratec; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy",
+      "9U498",
+      "20A - Exhaust Gas Recirculation, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy - \nLH",
+      "9G444",
+      "05AE - Exhaust System, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Single Exhaust, XL, XLT Series, Lariat Series, King Ranch Series, Platinium Series, Limited Series; 08/JAN/2024"
+    ],
+    [
+      "Sensor Assy - \nLH, \nUpstream",
+      "9F472",
+      "05A - Exhaust System, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor Assy - \nNot Serviced Separately",
+      "9E731",
+      "05A - Vehicle Modules and Sensors, Engine Compartment; 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy - \nRH",
+      "9G444",
+      "05AE - Exhaust System, 3.5L CYCLON-D4- G-DI-TIVCT-UPG, Single Exhaust, XL, XLT Series, Lariat Series, King Ranch Series, Platinium Series, Limited Series; 08/JAN/2024"
+    ],
+    [
+      "Sensor Assy - \nRH, \nUpstream",
+      "9F472",
+      "05A - Exhaust System, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor Assy - \nRH/LH",
+      "9G444",
+      "05A - Exhaust System, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Sensor Assy - Engine Speed",
+      "7H103",
+      "20G - Transmission Modules and Sensors, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Sensor Assy - Speed",
+      "7M101",
+      "20G - Transmission Modules and Sensors, 10 Speed Auto Transmission (10R80); 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy",
+      "402B56",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Body Weight - Airbag",
+      "600F67",
+      "15H - Front Seat Base, Power 8-Way Pass Seat Adj Level 2, LHD, Power 10-Way Pass Seat Adjust #2, Passenger Seat; 30/NOV/2020"
+    ],
+    [
+      "Sensor Asy - Transmission Oil Temp",
+      "7H141",
+      "20H - Transmission Modules and Sensors, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "Sensor Asy - Yaw Rate\nTrailer Sensor Kit",
+      "14B296",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Sensory Asy - Intrusion",
+      "15K609",
+      "20J - Console - Overhead, Less Sun Roof, Enhanced Security Alarm; 18/DEC/2023"
+    ],
+    [
+      "Camshaft Position Sensor",
+      "6B288",
+      "15A - Cylinder Head, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Kit - Air Quality Control Sensor",
+      "19F666",
+      "20AC - Console - Overhead, VISTA FRT PWR TILT/SLD/FIXD RR, With Perimeter Anti-Theft, Dearborn Electrical Vehicle Center; 08/NOV/2024-23/JAN/2026"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \n\"B And C\" Pillar, \nSensor , Side Impact, \nRH/LH",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nBattery Monitoring Sensor",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nHigh Voltage Battery, \nSensor , Coolant Temperature",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nLH, \nSensor , Seat Position",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nLH, \nSensor , Wheel Speed, \nFRONT",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRear, \nRH, \nSensor , Wheel Speed",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRH/LH, \nSensor , Front Impact",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nRH/LH, \nSensor , Wheel Speed, \nFRONT",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Ambient Temperature",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Brake Fluid Level",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Coolant Temperature",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Coolant Temperature, \nCharge Air Cooler",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Cylinder Head Temperature",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Evaporator Discharge Temperature",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Exhaust Gas Temperature",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Intake Air Temperature",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Knock",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor , Side Impact, \nRH/LH, \nFRONT",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nSensor, \nWith Tailgate Step",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nTransmission, \nSpeed Sensor",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nAir Quality, \nSensor",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nClutch, \nPressure Sensor, \nEngine",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nPressure Sensor, \nFuel Supply",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nRH, \nSensor , Seat Height , Front",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Battery Current",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Cam Shaft Position",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Crankcase Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Crankshaft Position , CPS",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Delta Pressure Feedback EGR",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Fuel Rail Pressure",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Fuel Tank Pressure Transducer",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Oil Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Particulate Filter Pressure",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Rain",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Register Discharge Air Temperature, \nRH/LH",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Reverse Park Aide , \nSensor , Front Park Aid, \nRH/LH, \nInner And Outer",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nSensor , Turbocharger Boost Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n3 CAVITY, \nVehicle Height Sensor, \nFront And Rear, \nRH/LH",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nLight, \nSensor",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Fuel Rail Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Intake Air Temperature, \nSensor , Manifold Absolute Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Manifold Absolute Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Sunload",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Supercharger Inlet Pressure",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nSensor , Transmission Range",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nIn-Vehicle Temperature And Humidity, \nSensor",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSensor , Acceleration Pedal Position",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nSensor , Throttle Position",
+      "14S411",
+      "45CC - Pigtail Wiring Kits, Sensors, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nSensor , Knock",
+      "14S411",
+      "45CD - Pigtail Wiring Kits, Sensors, Page B; 18/DEC/2023"
+    ],
+    [
+      "Wire Assy - Jumper\nLH, \n12A581 To Suspension Leveling Sensor",
+      "14A412",
+      "09A - Wiring - Engine And Transmission, 5.0L Coyote, Dearborn Plant Build; 12/OCT/2020"
+    ],
+    [
+      "Wire Assy - Jumper\nRH, \n12A581 To Suspension Leveling Sensor",
+      "14A412",
+      "09A - Wiring - Engine And Transmission, 5.0L Coyote, Dearborn Plant Build; 12/OCT/2020"
+    ]
+  ]
+}

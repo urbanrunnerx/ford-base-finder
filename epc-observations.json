@@ -1,0 +1,431 @@
+{
+  "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    [
+      "Module",
+      "14G647",
+      "05A - Camera Equipment, Rear View Camera-Fixed; 12/OCT/2020"
+    ],
+    [
+      "Module",
+      "12A650",
+      "05A - Engine Modules and Sensors, 5.2L Predator OHC SC PFI Gas; 18/OCT/2022"
+    ],
+    [
+      "Module",
+      "13C788",
+      "05H - Headlamps and Front Flasher Lamps, Headlamps - Level 7; 14/MAR/2022"
+    ],
+    [
+      "Module",
+      "3G590",
+      "10B - Active Safety Sensors & Modules, Driver Monitoring; 12/OCT/2020"
+    ],
+    [
+      "Module",
+      "14G371",
+      "05A - Audio Equipment - Original Fit, Dearborn Plant Build, Manual Air Conditioning, Multi Function Display - 12\"; 12/OCT/2020"
+    ],
+    [
+      "Module",
+      "14G490",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Module",
+      "14G672",
+      "50B - High Voltage Battery Charging, Less Engine, Electric Motor #2, Electric Motor #4, Electric Motor #5, Single Phase Charger; 14/MAR/2022"
+    ],
+    [
+      "Module - \nGateway Module",
+      "14G490",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Module - \nIntegrated Park Module / Park Lock Actuator",
+      "7P236",
+      "03C - Traction Motor And Transmission, Complete, Rear Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Module - \nNorth American Dealers Order Using The Ford Online 1878 / FESG Website",
+      "14G371",
+      "05A - Audio Equipment - Original Fit, Dearborn Plant Build, Manual Air Conditioning, Multi Function Display - 12\"; 12/OCT/2020"
+    ],
+    [
+      "Module - \nNorth American Dealers Order Using The Ford Online 1878 / FESG Website",
+      "14G490",
+      "10A - Active Safety Sensors & Modules, Pedestrian Warning; 12/OCT/2020"
+    ],
+    [
+      "Module - \nOff-Board Charger Controller",
+      "10E994",
+      "30C - Fuel Tank Filler Door and Controls, BEV Version; 31/OCT/2024"
+    ],
+    [
+      "Module - Air Bag",
+      "043B13",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag",
+      "044A74",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nBaja Tan, \nRH",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nBlack Onyx, \nRH",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nJava Interior, \nRH",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nLH",
+      "045J77",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nLH",
+      "611D11",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nLight Slate, \nRH",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nMedium Dark Slate, \nRH",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nRH",
+      "611D10",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nSmoked Truffle",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "Module - Air Bag\nSmoked Truffle, \nRH",
+      "045J76",
+      "15B - Airbag System; 18/DEC/2023"
+    ],
+    [
+      "MODULE - BLUETOOTH",
+      "14G617",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "MODULE - BLUETOOTH",
+      "14G618",
+      "05A - Vehicle Modules and Sensors, Engine Compartment; 12/OCT/2020"
+    ],
+    [
+      "Module - Heat Pump - Accumulator",
+      "19F699",
+      "22T - Air Conditioning System, Towing Pack 13, Accumulator And Lines; 18/DEC/2023"
+    ],
+    [
+      "Module - Seat Heater Control",
+      "14C724",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 12/OCT/2020"
+    ],
+    [
+      "Module - Seat Memory",
+      "14C708",
+      "05C - Vehicle Modules and Sensors, Body, Page A; 12/OCT/2020"
+    ],
+    [
+      "Module - Trailer Brake",
+      "19H332",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Module - Transfer Shift Control",
+      "7E453",
+      "05A - Transfer Drive Case, 2 Speed Tod W/4HI-LOC; 22/JUL/2021"
+    ],
+    [
+      "Module - Vehicle Emergency Message",
+      "19G468",
+      "05B - Vehicle Modules and Sensors, LHD, Instrument Panel, Console; 12/OCT/2020"
+    ],
+    [
+      "Module - Wireless Charging",
+      "19J235",
+      "05 - Cellular Phone Installation; 12/OCT/2020"
+    ],
+    [
+      "Module",
+      "19G367",
+      "20XA - Remote Starting Kit, Accessory; 12/OCT/2020"
+    ],
+    [
+      "Module - Lighting Control",
+      "13C788",
+      "10XA - Emergency and Safety Equipment, Strobe Lamp Kit, Accessory; 12/OCT/2020"
+    ],
+    [
+      "Module - Trailer Brake",
+      "19H332",
+      "05XA - Tow Bar, LHD, Accessory; 12/OCT/2020"
+    ],
+    [
+      "Electronic Module",
+      "14H266",
+      "22U - Air Conditioning System, Towing Pack 11, Accumulator And Lines; 18/DEC/2023"
+    ],
+    [
+      "MHT MODULE ASSEMBLY",
+      "7P209",
+      "10G - Transmission External Components, Mod Hybrd Trnaxle-A10R80-MHT-X; 12/OCT/2020"
+    ],
+    [
+      "MHT MODULE ASSEMBLY - \nNew Part Contains Design Change, Parts Are 100% Interchangeable",
+      "7P209",
+      "10U - Transmission External Components, Mod Hybrid Trnaxle - A10R80-MHT; 25/JUN/2025"
+    ],
+    [
+      "Trans Inverter Control Module - \nPrimary, \nFRONT",
+      "7B012",
+      "50A - High Voltage Battery Charging, 3.5L V6; 12/OCT/2020"
+    ],
+    [
+      "Trans Inverter Control Module - \nRear, \nPrimary, \nSOBDMC",
+      "7B012",
+      "03C - Traction Motor And Transmission, Complete, Rear Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Trans Inverter Control Module - \nSecondary, \nFRONT, \nSOBDMB",
+      "7B012",
+      "03E - Traction Motor And Transmission, Complete, Front Drive Unit; 14/MAR/2022"
+    ],
+    [
+      "Electronic Module",
+      "19A361",
+      "20XA - Remote Starting Kit, Accessory; 12/OCT/2020"
+    ],
+    [
+      "Kit - Pigtail Wiring\n10 Cavity, \nAudio Control Module , \nPanel",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n10 Cavity, \nModule , Sunshade",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nModule, \nDriver Monitoring",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nPedestrian Alert System , \nModule",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n12 Cavity, \nRear, \nModule , Heated Seat",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nModule , Trailer Brake Control",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n14 Cavity, \nTrailer Tow Module",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n15 Cavity, \nModule , Fuel Pump Control",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n16 Cavity, \nModule Gearshift",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n16 Cavity, \nModule Telematic Control Unit",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n16 Cavity, \nRH/LH, \nModule , Multi , Contour Control",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n2 CAVITY, \nModule , Steering Column Tilt/Tele And Pedal Adjust",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nBody Control Module",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nDigital Sound Processing Unit, \nModule",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nHeadlamp Control Module",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nImage Processing Module A",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n20 Cavity, \nModule , Transfer Case Shift Control",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n24 Cavity, \nImage Processing Module A",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nAir Conditioning And Heater Controls, \nModule",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n26 Cavity, \nGateway Module",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n30 Cavity, \nModule , Restraints Control",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n30 Cavity, \nModule, \nAir Conditioning And Heater Controls",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nAccessory Protocol Interface Module",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nFor Air Conditioning, \nModule",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nFor Seat Cushion, \nRH/LH, \nFRONT, \nSeat Module",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nModule , Variable Speed Blower Controller",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n4 CAVITY, \nModule Telematic Control Unit",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n40 Cavity, \nBody Control Module",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n46 Cavity, \nModule Brake",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nModule , DC/DC Converter",
+      "14S411",
+      "45FF - Pigtail Wiring Kits, Page C, Modules And Controllers; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n6 Cavity, \nRear, \nModule , Heated Seat",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nLeak Detection Pump Module",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , All Wheel Drive",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Fuel Pump Control",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Side Obstacle Detection, \nRH/LH, \nFRONT",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Steering Column Tilt/Tele And Pedal Adjust",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\n8 Cavity, \nModule , Wireless Charger",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n10 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n10 Cavity, \nModule , Transfer Case Shift Control",
+      "14S411",
+      "45FD - Pigtail Wiring Kits, Modules And Controllers, Page A; 18/DEC/2023"
+    ],
+    [
+      "Kit - Pigtail Wiring\nBlack, \n24 Cavity, \nLH, \nSeat Module",
+      "14S411",
+      "45FE - Pigtail Wiring Kits, Modules And Controllers, Page B; 18/DEC/2023"
+    ]
+  ]
+}

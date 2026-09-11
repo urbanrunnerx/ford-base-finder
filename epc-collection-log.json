@@ -1,0 +1,308 @@
+{
+  "checkedAt": "2026-09-10",
+  "note": "Read-only observations from displayed UI results. This log covers the continuation pass, not earlier searches. Counts refer to displayed rows, including repeated variants and locations. Capped queries are not complete; narrower searches do not prove full coverage of the parent.",
+  "searches": [
+    {
+      "capturedRows": 300,
+      "catalog": "LIGHT TRUCK (L) > 2025 > F150 2021- (FD)",
+      "needsRefinement": true,
+      "query": "clutch OR bearing OR gear",
+      "totalResults": 300,
+      "capped": true
+    },
+    {
+      "capturedRows": 140,
+      "query": "bearing",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 140",
+      "capped": false
+    },
+    {
+      "capturedRows": 98,
+      "query": "clutch",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 98",
+      "capped": false
+    },
+    {
+      "capturedRows": 88,
+      "query": "gear",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 88",
+      "capped": false
+    },
+    {
+      "capturedRows": 194,
+      "query": "piston OR crankshaft OR camshaft OR timing",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 194",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "belt OR tensioner OR pulley OR manifold OR radiator",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 300,
+      "query": "door OR window OR glass",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 300,
+      "query": "door",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 265,
+      "query": "handle OR hinge OR lock OR weatherstrip",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 265",
+      "capped": false
+    },
+    {
+      "capturedRows": 83,
+      "query": "window OR glass",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 83",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "seat",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 110,
+      "query": "belt",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 110",
+      "capped": false
+    },
+    {
+      "capturedRows": 222,
+      "query": "tensioner OR pulley OR manifold OR radiator",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 222",
+      "capped": false
+    },
+    {
+      "capturedRows": 101,
+      "query": "track OR recliner OR adjuster OR headrest",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 101",
+      "capped": false
+    },
+    {
+      "capturedRows": 171,
+      "query": "hood OR tailgate OR fender OR roof",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 171",
+      "capped": false
+    },
+    {
+      "capturedRows": 75,
+      "query": "hood OR tailgate",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 75",
+      "capped": false
+    },
+    {
+      "capturedRows": 39,
+      "query": "brake",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 39",
+      "capped": false
+    },
+    {
+      "capturedRows": 31,
+      "query": "steering",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 31",
+      "capped": false
+    },
+    {
+      "capturedRows": 66,
+      "query": "suspension OR shock OR stabilizer",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 66",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "shaft OR axle OR differential",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 300,
+      "query": "lamp OR mirror OR grille OR bumper",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 81,
+      "query": "shaft",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 81",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "axle OR differential",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 137,
+      "query": "lamp",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 137",
+      "capped": false
+    },
+    {
+      "capturedRows": 273,
+      "query": "mirror OR grille OR bumper",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 273",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "differential",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 286,
+      "query": "hose",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 286",
+      "capped": false
+    },
+    {
+      "capturedRows": 188,
+      "query": "tube",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 188",
+      "capped": false
+    },
+    {
+      "capturedRows": 61,
+      "query": "pipe",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 61",
+      "capped": false
+    },
+    {
+      "capturedRows": 73,
+      "query": "relay OR fuse OR horn OR starter OR alternator",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 73",
+      "capped": false
+    },
+    {
+      "capturedRows": 7,
+      "query": "airbag OR restraint OR pretensioner",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 7",
+      "capped": false
+    },
+    {
+      "capturedRows": 113,
+      "query": "console OR carpet OR dash OR insulation",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 113",
+      "capped": false
+    },
+    {
+      "capturedRows": 207,
+      "query": "moulding",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 207",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "panel",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 300,
+      "query": "bracket",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 300,
+      "query": "cover",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 7,
+      "query": "turbo",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 7",
+      "capped": false
+    },
+    {
+      "capturedRows": 22,
+      "query": "injector",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 22",
+      "capped": false
+    },
+    {
+      "capturedRows": 260,
+      "query": "fuel",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 260",
+      "capped": false
+    },
+    {
+      "capturedRows": 178,
+      "query": "sensor",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 178",
+      "capped": false
+    },
+    {
+      "capturedRows": 105,
+      "query": "module",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 105",
+      "capped": false
+    },
+    {
+      "capturedRows": 65,
+      "query": "exhaust",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 65",
+      "capped": false
+    },
+    {
+      "capturedRows": 43,
+      "query": "emission OR urea OR reductant",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F250-600 Super Duty (FH) > Total Results: 43",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "seat frame",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 245,
+      "query": "seat back",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 245",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "seat cushion",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 187,
+      "query": "head restraint",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 187",
+      "capped": false
+    },
+    {
+      "capturedRows": 300,
+      "query": "cover engine",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 300",
+      "capped": true
+    },
+    {
+      "capturedRows": 149,
+      "query": "panel instrument",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 149",
+      "capped": false
+    },
+    {
+      "capturedRows": 85,
+      "query": "door panel",
+      "summary": "Within Current Catalog: LIGHT TRUCK (L) > 2025 > F150 2021- (FD) > Total Results: 85",
+      "capped": false
+    }
+  ]
+}
