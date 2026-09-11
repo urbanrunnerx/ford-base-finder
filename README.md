@@ -1,6 +1,6 @@
 # Ford Base Finder
 
-[**Open and install Ford Base Finder**](https://ford-base-finder-chris.urbanrunnerx.chatgpt.site)
+[**Open and install Ford Base Finder**](https://ford-base-finder-chris.urbanrunnerx.chatgpt.site/install.html)
 
 A phone-friendly Ford basic-number reference. Search a part name, description, basic number, or full service part number.
 
@@ -8,7 +8,7 @@ A phone-friendly Ford basic-number reference. Search a part name, description, b
 
 1. Open the app link above in Chrome.
 2. Sign in with the account that owns the app if prompted.
-3. Open Chrome's three-dot menu, choose **Install and create shortcut**, then **Install**.
+3. Tap **Install on my phone**. If your browser cannot show the prompt, the page provides the installation steps.
 4. Launch Ford Base Finder from your phone's app icon.
 
 [Google's Android installation instructions](https://support.google.com/chrome/answer/9658361?co=GENIE.Platform%3DAndroid&hl=en)
